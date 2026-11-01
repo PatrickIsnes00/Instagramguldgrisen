@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-02",
+  "topic": "Förhandla bolåneräntan",
+  "category": "bolan",
+  "post": {
+    "layout": "stat",
+    "theme": "green",
+    "kicker": "Bolån",
+    "title": "0,3 procentenheter lägre ränta på ett bolån på 2 miljoner är värt",
+    "number": "6 000 kr",
+    "unit": "per år",
+    "rows": [["Bolån", "2 000 000 kr"], ["Sänkt ränta", "−0,30 procentenheter"], ["Per månad", "500 kr"], ["På 5 år", "30 000 kr"]],
+    "note": "Räkneexempel före ränteavdrag. Ditt lån och din ränta styr utfallet.",
+    "footer": "Ett samtal kan vara värt tusenlappar"
+  },
+  "story": {
+    "layout": "tips",
+    "theme": "cream",
+    "kicker": "3 steg",
+    "title": "Så förhandlar du din bolåneränta",
+    "items": [
+      "Jämför med bankernas snitträntor – vad betalar andra kunder?",
+      "Ta in ett erbjudande från en annan bank",
+      "Ring din bank, visa erbjudandet och be om en lägre ränta"
+    ],
+    "footer": "Hela bolånsguiden på guldgrisen.se"
+  },
+  "caption": "Visste du att en liten räntesänkning kan bli mycket pengar? 💰\n\nRäkneexempel: har du ett bolån på 2 000 000 kr och förhandlar ner räntan med 0,3 procentenheter sparar du 6 000 kr per år. Det är 500 kr i månaden och 30 000 kr på fem år (före ränteavdrag).\n\nSå gör du:\n1️⃣ Kolla bankernas snitträntor. De visar vad andra kunder faktiskt betalar, inte bara listpriset.\n2️⃣ Ta in ett erbjudande från en annan bank.\n3️⃣ Ring din bank, visa erbjudandet och be om en lägre ränta.\n\nDet tar en kvart och kan vara värt tusenlappar varje år.\n\n📖 Läs mer i guiden ”Bolån från början till slut” på guldgrisen.se (länk i bio).\n\n#bolån #ränta #privatekonomi #spartips #guldgrisen #ekonomi #bostad #sparande"
+}
