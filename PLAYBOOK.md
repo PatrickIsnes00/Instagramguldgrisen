@@ -1,7 +1,7 @@
 # Guldgrisen Instagram – arbetsbeskrivning
 
 Det här repot innehåller bilderna till @guldgrisen och reglerna för det dagliga flödet.
-Varje dag skapas ett inlägg (1080×1080) och en story (1080×1920) som **utkast** i Metricool.
+Tre publiceringsdagar per vecka: **måndag** (inlägg + story), **onsdag** (bara inlägg) och **fredag** (inlägg + story). Allt skapas som **utkast** i Metricool.
 Patrick granskar och godkänner allt innan publicering.
 
 ## Struktur
@@ -10,27 +10,37 @@ Patrick granskar och godkänner allt innan publicering.
 - `posts/ÅÅÅÅ-MM-DD/spec.json` – innehåll, layout, tema och bildtext för den dagen
 - `history.json` – logg över publicerade ämnen (används för variation)
 
-## Daglig rutin
+## Månadstak: max 20 i Metricool
+
+Metricool-planen tillåter max 20 schemalagda objekt per kalendermånad. Varje inlägg och varje story räknas som ett objekt.
+
+- Summera `metricool_items` i `history.json` för publiceringsdagens månad innan något skapas.
+- Får båda inte plats: skapa bara inlägget och hoppa över storyn.
+- Är taket nått (20): skapa ingenting och rapportera det.
+- Spara alltid antalet skapade objekt i `metricool_items` för dagen.
+
+## Rutin (körs kvällen före varje publiceringsdag)
 
 1. Läs `history.json` och de senaste 14 dagarnas `spec.json`.
-2. Välj ämne för **imorgon** enligt variationsreglerna nedan.
+2. Publiceringsdag = imorgon. Kontrollera veckodagen: måndag och fredag = inlägg + story, onsdag = bara inlägg. Kontrollera månadstaket ovan. Välj sedan ämne enligt variationsreglerna nedan.
 3. Hämta fakta från rätt guide eller kalkylator på guldgrisen.se (WebFetch). Kontrollera regler som kan ändras (skatt, ränteavdrag, amorteringskrav, föräldrapenning) med en webbsökning.
 4. Räkna ut alla siffror med Python, inte i huvudet.
 5. Skriv `posts/<datum>/spec.json`, kör `python3 render.py posts/<datum>/spec.json` och titta på båda bilderna.
 6. Committa och pusha till `main`.
-7. Skapa två utkast i Metricool (varumärke `guldgrisen`, blogId 7801849, tidszon Europe/Stockholm) med `draft: true`:
+7. Skapa utkast i Metricool (varumärke `guldgrisen`, blogId 7801849, tidszon Europe/Stockholm) med `draft: true`:
    - Inlägg: `instagramData.type = "POST"`, bildtext från `caption`, media = raw-länken till `post.jpg`
    - Story: `instagramData.type = "STORY"`, ingen text, media = raw-länken till `story.jpg`
    - Standardtider: inlägg 07:42, story 17:13 (om inget annat anges)
-8. Lägg till dagen i `history.json` och pusha.
+8. Lägg till dagen i `history.json` (med `metricool_items`) och pusha.
 
 Rå-länkar: `https://raw.githubusercontent.com/<ägare>/Instagramguldgrisen/main/posts/<datum>/post.jpg`
 
 ## Variationsregler
 
-- Samma **kategori** får inte förekomma två dagar i rad, och högst två gånger per vecka.
-- Samma **layout** för inlägget får inte förekomma två dagar i rad.
-- Samma **tema** (färg) får inte förekomma två dagar i rad.
+- Samma **kategori** får inte förekomma två publiceringsdagar i rad, och högst en gång per vecka.
+- Samma **layout** för inlägget får inte förekomma två publiceringsdagar i rad.
+- Samma **tema** (färg) får inte förekomma två publiceringsdagar i rad.
+- På onsdagar finns ingen story: utelämna `story` i spec.json så renderas bara `post.jpg`.
 - Storyn ska ha en annan layout än inlägget samma dag och gärna en annan vinkel (fråga, myt, steg).
 - Upprepa aldrig samma ämne inom 30 dagar.
 - Ungefär en gång per vecka: lyft en kalkylator eller Mitt konto som verktyg.

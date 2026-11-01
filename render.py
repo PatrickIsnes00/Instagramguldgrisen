@@ -107,6 +107,8 @@ async def main(spec_path):
     async with async_playwright() as pw:
         b = await pw.chromium.launch(executable_path="/usr/bin/google-chrome", args=["--no-sandbox"])
         for kind, story in (("post", False), ("story", True)):
+            if kind not in s:
+                continue
             spec = s[kind]
             theme = spec.get("theme", s.get("theme", "green"))
             pg = await b.new_page(viewport={"width": 1080, "height": 1920 if story else 1080})
