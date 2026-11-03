@@ -17,5 +17,14 @@
     "story_layout": "tips",
     "theme": "green",
     "metricool_items": 2
+  },
+  {
+    "date": "2026-11-04",
+    "category": "sparande",
+    "topic": "Tid slår belopp – börja spara tidigt (ränta på ränta)",
+    "post_layout": "compare",
+    "story_layout": null,
+    "theme": "gold",
+    "metricool_items": 1
   }
 ]

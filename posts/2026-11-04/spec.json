@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-04",
+  "topic": "Tid slår belopp – börja spara tidigt (ränta på ränta)",
+  "category": "sparande",
+  "post": {
+    "layout": "compare",
+    "theme": "gold",
+    "kicker": "Ränta på ränta",
+    "title": "Spara 500 kr i månaden\ntills du är 65",
+    "a": {
+      "label": "Börjar vid 35",
+      "value": "585 000 kr",
+      "sub": "30 år · 180 000 kr insatt"
+    },
+    "b": {
+      "label": "Börjar vid 25",
+      "value": "1,24 mkr",
+      "sub": "40 år · 240 000 kr insatt"
+    },
+    "highlight": "b",
+    "verdict": "10 år tidigare: 60 000 kr mer insatt –\nmen cirka 650 000 kr mer i slutet.",
+    "note": "Räkneexempel: 7 % årlig avkastning efter avgifter, före skatt. Framtida avkastning är inte garanterad.",
+    "footer": "Testa själv i ränta på ränta-kalkylatorn"
+  },
+  "caption": "Tio år tidigare kan vara värt mer än du tror ⏳\n\nRäkneexempel: du sparar 500 kr i månaden fram till 65 års ålder.\n• Börjar du vid 35 har du satt in 180 000 kr och kan ha cirka 585 000 kr.\n• Börjar du vid 25 har du satt in 240 000 kr och kan ha cirka 1,24 miljoner kr.\nSkillnaden i insättningar är 60 000 kr – skillnaden i slutet cirka 650 000 kr. Det är ränta på ränta: avkastningen ger i sin tur avkastning.\n\n(Antaganden: 7 % årlig avkastning efter avgifter, före skatt, månadsvis sparande. Framtida avkastning är inte garanterad och värdet kan både öka och minska.)\n\nSå kan du tänka:\n1️⃣ Tid i marknaden betyder mer än att hitta rätt dag att börja.\n2️⃣ Ett litet belopp nu kan slå ett större belopp senare.\n3️⃣ Gör sparandet automatiskt dagen efter lön, så händer det av sig självt.\n\n🧮 Testa med dina egna siffror i ränta på ränta-kalkylatorn på guldgrisen.se (länk i bio).\n\n#räntapåränta #sparande #privatekonomi #spartips #månadssparande #guldgrisen #ekonomi #fondsparande",
+  "alt_text": "Gul bild från Guldgrisen.se som jämför månadssparande på 500 kr fram till 65 år. Börjar man vid 35 blir det cirka 585 000 kr, börjar man vid 25 cirka 1,24 miljoner kr. Räkneexempel med 7 % årlig avkastning, ingen garanti."
+}
