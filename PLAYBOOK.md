@@ -80,3 +80,32 @@ Teman: `green`, `cream`, `gold`, `ink`.
 - Bildtext: krok på första raden, räkneexemplet, 2–4 konkreta steg eller insikter, hänvisning till guide/kalkylator (”länk i bio”), 6–10 hashtags.
 - Max cirka 90 ord på inläggsbilden. Ingen text i storyn utanför bilden.
 - Inga påhittade siffror om verkligheten (t.ex. ”70 % av svenskarna …”) utan källa.
+
+## Reels – en om dagen (Patrick publicerar själv)
+
+Reels skapas varje kväll för nästa dag. De går **inte** via Metricool och räknas inte mot taket på 20. Patrick laddar ner videon och publicerar själv i Instagram-appen, gärna med ett trendande ljud.
+
+- `reel.py` – gör `reel.mp4` (1080×1920, 30 fps, tyst ljudspår) av `reels/<datum>/spec.json`. Scentyper: `hook`, `counter`, `compare`, `steps`, `myth`, `quiz`, `stat`, `end` (se toppen av `reel.py`).
+- `reels_history.json` – logg över reels (datum, ämne, kategori, scener, tema).
+- Titta alltid på några ramar först: `python3 reel.py reels/<datum>/spec.json --frames 1.5 5 10 ...` och rätta om text klipps eller ligger fel. Ta bort `frame_*.jpg` innan commit.
+
+### Upplägg
+- 12–25 sekunder, 3–5 scener. Första scenen är alltid `hook` (en fråga eller ett överraskande påstående) och sista alltid `end` med uppmaning till rätt kalkylator eller guide på guldgrisen.se.
+- Variera formatet: räkna upp (`counter`), quiz, myt mot fakta, jämförelse, steg för steg.
+- All text och alla siffror ska vara läsbara utan ljud. Avkastningsexempel: ange antaganden i `end`-scenens `note` och att framtida avkastning inte är garanterad.
+- Siffror räknas i Python (för `counter`: lista `points` med `x`, `in`, `gain`).
+
+### Variationsregler för reels
+- Samma kategori får inte förekomma två dagar i rad.
+- Upprepa aldrig samma ämne inom 30 dagar (kolla `reels_history.json`).
+- Inte samma ämne som inlägget som publiceras samma dag (kolla `posts/<datum>/`).
+- Byt tema från föregående dag.
+
+### Beskrivning (`caption.txt`)
+- Krok på första raden, räkneexemplet kort, 2–3 insikter, antaganden vid avkastning, ”länk i bio”, en fråga som lockar till kommentarer.
+- **Max 5 hashtags.**
+
+### Leverans
+- Committa `reels/<datum>/spec.json`, `reel.mp4` och `caption.txt` och pusha till `main`.
+- Rå-länk: `https://raw.githubusercontent.com/PatrickIsnes00/Instagramguldgrisen/main/reels/<datum>/reel.mp4`
+- Skicka en notis till Patrick med länken och hela beskrivningen.
