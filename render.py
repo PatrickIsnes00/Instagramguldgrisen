@@ -2,7 +2,7 @@
 """Guldgrisen Instagram-renderare.
 
 Användning:  python3 render.py posts/2026-11-02/spec.json
-Skapar post.jpg (1080x1080) och story.jpg (1080x1920) bredvid spec.json.
+Skapar post.jpg (1080x1350, 4:5 – syns helt i profilrutnätet) och story.jpg (1080x1920) bredvid spec.json.
 
 Layouter: stat, tips, question, compare, myth
 Teman:    green, cream, gold, ink
@@ -54,9 +54,9 @@ def body(spec, story):
 
 def page(spec, theme, story):
     t = THEMES[theme]
-    W, H = 1080, (1920 if story else 1080)
-    pad = "250px 80px 300px" if story else "72px 80px"
-    sc = 1.25 if story else 1.0
+    W, H = 1080, (1920 if story else 1350)
+    pad = "250px 80px 300px" if story else "96px 84px 88px"
+    sc = 1.25 if story else 1.1
     px = lambda v: f"{round(v*sc)}px"
     return f'''<!doctype html><html lang="sv"><head><meta charset="utf-8"><style>
 *{{box-sizing:border-box}}body{{margin:0}}
@@ -93,8 +93,8 @@ def page(spec, theme, story):
 .foot{{display:flex;align-items:center;justify-content:space-between;font-size:{px(24)};font-weight:600;position:relative}}
 .foot span:last-child{{display:inline-flex;align-items:center;gap:10px;color:{t["accent"]}}}
 </style></head><body><div class="f">
-<div class="ring" style="right:-160px;top:{"60" if story else "-160"}px;width:520px;height:520px"></div>
-<div class="ring" style="right:-80px;top:{"140" if story else "-80"}px;width:360px;height:360px"></div>
+<div class="ring" style="right:-160px;top:{"60" if story else "-120"}px;width:520px;height:520px"></div>
+<div class="ring" style="right:-80px;top:{"140" if story else "-40"}px;width:360px;height:360px"></div>
 <div class="top">{PIG.format(s=px(50), c=t["accent"])}Guldgrisen.se</div>
 <div class="main">{body(spec, story)}</div>
 <div class="foot"><span>{e(spec.get("footer","Räkna själv på guldgrisen.se"))}</span><span>Guldgrisen.se{ARROW.format(s=px(24), c=t["accent"])}</span></div>
@@ -111,7 +111,7 @@ async def main(spec_path):
                 continue
             spec = s[kind]
             theme = spec.get("theme", s.get("theme", "green"))
-            pg = await b.new_page(viewport={"width": 1080, "height": 1920 if story else 1080})
+            pg = await b.new_page(viewport={"width": 1080, "height": 1920 if story else 1350})
             await pg.set_content(page(spec, theme, story))
             await pg.wait_for_timeout(300)
             png = p.parent / f"{kind}.png"

@@ -6,7 +6,8 @@ Patrick granskar och godkänner allt innan publicering.
 
 ## Struktur
 
-- `render.py` – gör `post.jpg` och `story.jpg` av en `spec.json`
+- `render.py` – gör `post.jpg` (1080×1350, 4:5) och `story.jpg` (1080×1920) av en `spec.json`
+  - Inlägget är stående 4:5 så att hela bilden syns i profilens rutnät (som visar 3:4). Håll viktig text minst ~40 px från vänster- och högerkanten.
 - `posts/ÅÅÅÅ-MM-DD/spec.json` – innehåll, layout, tema och bildtext för den dagen
 - `history.json` – logg över publicerade ämnen (används för variation)
 
