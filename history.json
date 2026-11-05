@@ -26,5 +26,14 @@
     "story_layout": null,
     "theme": "gold",
     "metricool_items": 1
+  },
+  {
+    "date": "2026-11-06",
+    "category": "trygghet",
+    "topic": "Buffert – tre månaders utgifter som tumregel",
+    "post_layout": "stat",
+    "story_layout": "question",
+    "theme": "cream",
+    "metricool_items": 2
   }
 ]

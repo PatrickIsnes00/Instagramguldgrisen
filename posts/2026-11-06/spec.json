@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-06",
+  "topic": "Buffert – tre månaders utgifter som tumregel",
+  "category": "trygghet",
+  "post": {
+    "layout": "stat",
+    "theme": "cream",
+    "kicker": "Buffert",
+    "title": "Tre månaders utgifter är en vanlig tumregel. Med 20 000 kr i månadsutgifter blir målet",
+    "number": "60 000 kr",
+    "unit": "i buffert",
+    "rows": [["Utgifter per månad", "20 000 kr"], ["Tumregel", "3 månader"], ["Sparar du 2 500 kr/mån", "klart på 24 mån"], ["Sparar du 5 000 kr/mån", "klart på 12 mån"]],
+    "note": "Räkneexempel. Utgå från dina egna nödvändiga utgifter – boende, mat, räkningar.",
+    "footer": "Räkna ut din buffert i buffertkalkylatorn"
+  },
+  "story": {
+    "layout": "question",
+    "theme": "green",
+    "kicker": "Fråga",
+    "question": "Om tvättmaskinen gick sönder i dag – hur skulle du betala?",
+    "sub": "En buffert gör en dyr överraskning till en vanlig dag i stället för en kris.",
+    "cta": "Räkna ut din buffert på guldgrisen.se",
+    "footer": "Buffertkalkylatorn – länk i bio"
+  },
+  "caption": "Hur stor buffert behöver du egentligen? 🛟\n\nEn vanlig tumregel är tre månaders nödvändiga utgifter.\nRäkneexempel: lägger du 20 000 kr i månaden på boende, mat och räkningar blir målet 60 000 kr. Sparar du 2 500 kr i månaden är du framme på 24 månader – med 5 000 kr i månaden på 12 månader.\n\nSå kan du göra:\n1️⃣ Räkna ihop dina nödvändiga utgifter för en månad, inte hela lönen.\n2️⃣ Lägg bufferten på ett separat sparkonto utan bindningstid, så att pengarna finns när du behöver dem.\n3️⃣ Gör en automatisk överföring dagen efter lön.\n4️⃣ Börja smått – en mindre buffert är mycket bättre än ingen alls.\n\n🧮 Räkna ut din egen buffert i buffertkalkylatorn på guldgrisen.se (länk i bio).\n\n#buffert #sparande #privatekonomi #spartips #ekonomi #guldgrisen #sparkonto #tryggekonomi",
+  "alt_text": "Ljus bild från Guldgrisen.se om buffertsparande. Tumregel: tre månaders utgifter. Med 20 000 kr i månadsutgifter blir målet 60 000 kr – klart på 24 månader med 2 500 kr i månaden eller 12 månader med 5 000 kr i månaden. Räkneexempel."
+}
