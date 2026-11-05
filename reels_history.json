@@ -22,5 +22,19 @@
       "end"
     ],
     "theme": "ink"
+  },
+  {
+    "date": "2026-11-06",
+    "category": "budget",
+    "topic": "Små utgifter över tid – 40 kr om dagen i 10 år",
+    "scenes": [
+      "hook",
+      "quiz",
+      "stat",
+      "steps",
+      "end"
+    ],
+    "theme": "gold",
+    "note": "guldgrisen.se kunde inte hämtas – bygger bara på egna beräkningar"
   }
 ]

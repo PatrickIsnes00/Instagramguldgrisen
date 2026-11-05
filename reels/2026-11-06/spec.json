@@ -1,0 +1,76 @@
+{
+  "date": "2026-11-06",
+  "topic": "Små utgifter över tid – 40 kr om dagen i 10 år",
+  "category": "budget",
+  "theme": "gold",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "40 kr om\ndagen?\nLåter lite.",
+      "accent": "Tänk 10 år.",
+      "sub": "En kaffe, en läsk, en snabbis"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.0,
+      "question": "Vad blir 40 kr om dagen på 10 år?",
+      "options": [
+        "Cirka 15 000 kr",
+        "Cirka 50 000 kr",
+        "146 000 kr"
+      ],
+      "answer": 2,
+      "reveal": "Utan ränta – bara det du betalar."
+    },
+    {
+      "type": "stat",
+      "dur": 5.0,
+      "kicker": "40 kr om dagen",
+      "number": "14 600",
+      "unit": "kr per år",
+      "rows": [
+        [
+          "Per månad",
+          "ca 1 200 kr"
+        ],
+        [
+          "Per år",
+          "14 600 kr"
+        ],
+        [
+          "På 10 år",
+          "146 000 kr"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "dur": 6.0,
+      "title": "Så hittar du\ndina 40 kr",
+      "items": [
+        "Gå igenom en månads kontoutdrag",
+        "Halvera en vana – inte alla",
+        "Flytta mellanskillnaden till sparkontot direkt"
+      ]
+    },
+    {
+      "type": "end",
+      "dur": 4.4,
+      "kicker": "Gör din budget",
+      "big": "146 000 kr",
+      "rows": [
+        [
+          "40 kr × 365 dagar",
+          "14 600 kr/år"
+        ],
+        [
+          "Halverar du",
+          "73 000 kr på 10 år"
+        ]
+      ],
+      "cta": "Gör din budget på guldgrisen.se",
+      "note": "Räkneexempel: 40 kr varje dag i 10 år, utan ränta och prisökningar."
+    }
+  ]
+}
