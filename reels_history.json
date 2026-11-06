@@ -36,5 +36,19 @@
     ],
     "theme": "gold",
     "note": "guldgrisen.se kunde inte hämtas – bygger bara på egna beräkningar"
+  },
+  {
+    "date": "2026-11-07",
+    "category": "lan",
+    "topic": "Dyrt smålån – betala 500 eller 1 000 kr i månaden",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "steps",
+      "end"
+    ],
+    "theme": "cream",
+    "note": "guldgrisen.se kunde inte hämtas – bygger bara på egna beräkningar"
   }
 ]

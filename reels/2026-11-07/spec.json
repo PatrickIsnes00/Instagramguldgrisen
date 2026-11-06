@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-07",
+  "topic": "Dyrt smålån – betala 500 eller 1 000 kr i månaden",
+  "category": "lan",
+  "theme": "cream",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Lån på\n20 000 kr.",
+      "accent": "Vad kostar det?",
+      "sub": "Svaret beror på hur fort du betalar"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.0,
+      "question": "500 kr i månaden, 19 % ränta. Hur lång tid tar det?",
+      "options": [
+        "Cirka 3 år",
+        "Cirka 4 år",
+        "Över 5 år"
+      ],
+      "answer": 2,
+      "reveal": "64 månader – och nästan 11 900 kr i ränta."
+    },
+    {
+      "type": "compare",
+      "dur": 5.5,
+      "title": "Samma lån,\nolika takt",
+      "a": {
+        "label": "500 kr/mån",
+        "value": "11 900 kr",
+        "sub": "i ränta · 5 år och 4 mån"
+      },
+      "b": {
+        "label": "1 000 kr/mån",
+        "value": "4 200 kr",
+        "sub": "i ränta · drygt 2 år"
+      },
+      "verdict": "Dubbla takten – ca 7 700 kr mindre i ränta."
+    },
+    {
+      "type": "steps",
+      "dur": 6.0,
+      "title": "Så blir lånet\nbilligare",
+      "items": [
+        "Betala dyraste lånet först",
+        "Höj betalningen lite i taget",
+        "Lägg extra pengar direkt på skulden"
+      ]
+    },
+    {
+      "type": "end",
+      "dur": 4.5,
+      "kicker": "Mindre i ränta",
+      "big": "7 700 kr",
+      "rows": [
+        [
+          "500 kr/mån",
+          "64 mån"
+        ],
+        [
+          "1 000 kr/mån",
+          "25 mån"
+        ]
+      ],
+      "cta": "Testa skuldkalkylatorn på guldgrisen.se",
+      "note": "Räkneexempel: 20 000 kr, 19 % årsränta, ränta varje månad, utan avgifter."
+    }
+  ]
+}
