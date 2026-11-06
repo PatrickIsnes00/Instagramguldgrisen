@@ -48,19 +48,21 @@ Rå-länkar: `https://raw.githubusercontent.com/<ägare>/Instagramguldgrisen/mai
 
 ## Kategorier och ämnesbank
 
+Alla sidor ligger på `https://guldgrisen.se/<sidnamn>.html` (glöm inte `.html`). Alla guider listas på https://guldgrisen.se/guider.html.
+
 | Kategori | Exempel på ämnen | Källa på guldgrisen.se |
 |---|---|---|
-| `bolan` | Förhandla räntan, rörlig eller bunden, amorteringskrav, kontantinsats, hur mycket får jag låna | guide-bolan, guide-hur-mycket-kan-jag-lana, hur-mycket-kan-jag-lana |
-| `sparande` | Ränta på ränta, börja med 500 kr/mån, sparmål, tid slår timing | guide-kom-igang, guide-ranta-pa-ranta-forklarat, ranta-pa-ranta, sparmal |
-| `investera` | ISK vs KF vs vanligt konto, vad är en fond, fondavgifter, 4 %-regeln | guide-isk-kapitalforsakring, guide-vad-ar-en-fond, fondavgifter, guide-fyraprocentsregeln |
-| `budget` | Budget utan stress, prenumerationsrensning, små utgifter över tid | guide-budgetering, hushallsbudget, budget, prenumerationer |
-| `trygghet` | Buffert, bedrägerier (SMS, telefon, falska investeringar) | guide-buffert, buffertkalkylator, guide-bedragerier |
-| `lon_familj` | Brutto till netto, föräldrapenning, planering inför föräldraledighet | guide-nettolon, nettolon-kalkylator, guide-foraldrapenning |
-| `lan` | Billån och restvärde, skuld och amortering, dyra smålån | guide-billan-restvarde, billan-kalkylator, skuldkalkylator |
-| `beslut` | Hyra eller köpa, amortera eller investera, tänk innan du sparar | guide-hyra-eller-kopa, guide-amortera-eller-investera |
-| `barn` | Veckopeng, sparmål för barn, prata pengar med barn | barn |
-| `mitt_konto` | Spara budgeten, följ sparmål, logga in med e-postkod | mitt-konto |
-| `ordlista` | Förklara ett begrepp (t.ex. snittränta, belåningsgrad, KALP) | ordlista |
+| `bolan` | Förhandla räntan, rörlig eller bunden, amorteringskrav, kontantinsats, hur mycket får jag låna | guide-bolan.html, guide-hur-mycket-kan-jag-lana.html, hur-mycket-kan-jag-lana.html |
+| `sparande` | Ränta på ränta, börja med 500 kr/mån, sparmål, tid slår timing | guide-kom-igang.html, guide-ranta-pa-ranta-forklarat.html, ranta-pa-ranta.html, sparmal.html |
+| `investera` | ISK vs KF vs vanligt konto, vad är en fond, fondavgifter, 4 %-regeln | guide-isk-kapitalforsakring.html, guide-vad-ar-en-fond.html, fondavgifter.html, guide-fyraprocentsregeln.html, fyraprocentsregeln.html |
+| `budget` | Budget utan stress, prenumerationsrensning, små utgifter över tid | guide-budgetering.html, hushallsbudget.html, budget.html, prenumerationer.html |
+| `trygghet` | Buffert, bedrägerier (SMS, telefon, falska investeringar) | guide-buffert.html, buffertkalkylator.html, guide-bedragerier.html |
+| `lon_familj` | Brutto till netto, föräldrapenning, planering inför föräldraledighet | guide-nettolon.html, nettolon-kalkylator.html, guide-foraldrapenning.html, foraldrapenning.html |
+| `lan` | Billån och restvärde, skuld och amortering, dyra smålån | guide-billan-restvarde.html, billan-kalkylator.html, skuldkalkylator.html |
+| `beslut` | Hyra eller köpa, amortera eller investera, tänk innan du sparar | guide-hyra-eller-kopa.html, guide-amortera-eller-investera.html, hyra-eller-kopa.html, amortera-eller-investera.html |
+| `barn` | Veckopeng, sparmål för barn, prata pengar med barn | barn.html |
+| `mitt_konto` | Spara budgeten, följ sparmål, logga in med e-postkod | mitt-konto.html |
+| `ordlista` | Förklara ett begrepp (t.ex. snittränta, belåningsgrad, KALP) | ordlista.html |
 
 ## Layouter
 
