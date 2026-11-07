@@ -1,0 +1,46 @@
+{
+  "date": "2026-11-08",
+  "topic": "Amortera eller investera – ränteavdraget gör den verkliga räntan lägre",
+  "category": "beslut",
+  "theme": "green",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "50 000 kr\növer.",
+      "accent": "Amortera eller spara?",
+      "sub": "Börja med att räkna på räntan"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.0,
+      "question": "Bolåneränta 3 %. Vad sparar du per år på att amortera 50 000 kr?",
+      "options": ["1 500 kr", "1 050 kr", "500 kr"],
+      "answer": 1,
+      "reveal": "1 050 kr – ränteavdraget på 30 % gör räntan till 2,1 %."
+    },
+    {
+      "type": "myth",
+      "dur": 5.5,
+      "myth": "Extra amortering lönar sig alltid mest",
+      "fact": "Det är en säker effekt – men ofta lägre än du tror."
+    },
+    {
+      "type": "compare",
+      "dur": 5.5,
+      "title": "50 000 kr\nunder ett år",
+      "a": {"label": "Amortera", "value": "1 050 kr", "sub": "lägre ränta · säkert"},
+      "b": {"label": "Investera", "value": "3 000 kr", "sub": "vid 6 % · inte garanterat"},
+      "verdict": "Säker effekt mot möjlig avkastning – välj efter din risk."
+    },
+    {
+      "type": "end",
+      "dur": 4.5,
+      "kicker": "Verklig ränta",
+      "big": "2,1 %",
+      "rows": [["Bolåneränta", "3,0 %"], ["Efter ränteavdrag", "2,1 %"]],
+      "cta": "Räkna själv på guldgrisen.se – amortera eller investera",
+      "note": "Räkneexempel: 3 % ränta, 30 % ränteavdrag, 6 % årlig avkastning före skatt. Framtida avkastning är inte garanterad."
+    }
+  ]
+}

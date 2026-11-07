@@ -50,5 +50,19 @@
     ],
     "theme": "cream",
     "note": "guldgrisen.se kunde inte hämtas – bygger bara på egna beräkningar"
+  },
+  {
+    "date": "2026-11-08",
+    "category": "beslut",
+    "topic": "Amortera eller investera – ränteavdraget gör den verkliga räntan lägre",
+    "scenes": [
+      "hook",
+      "quiz",
+      "myth",
+      "compare",
+      "end"
+    ],
+    "theme": "green",
+    "note": "guldgrisen.se kunde inte hämtas – bygger på egna beräkningar; ränteavdrag 30 % kontrollerat via webbsökning"
   }
 ]
