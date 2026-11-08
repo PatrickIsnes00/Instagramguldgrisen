@@ -64,5 +64,19 @@
     ],
     "theme": "green",
     "note": "guldgrisen.se kunde inte hämtas – bygger på egna beräkningar; ränteavdrag 30 % kontrollerat via webbsökning"
+  },
+  {
+    "date": "2026-11-09",
+    "category": "trygghet",
+    "topic": "Buffert – tre månaders utgifter och hur lång tid det tar att spara ihop",
+    "scenes": [
+      "hook",
+      "quiz",
+      "myth",
+      "steps",
+      "end"
+    ],
+    "theme": "ink",
+    "note": "guldgrisen.se kunde inte hämtas – bygger bara på egna beräkningar"
   }
 ]

@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-09",
+  "topic": "Buffert – tre månaders utgifter och hur lång tid det tar att spara ihop",
+  "category": "trygghet",
+  "theme": "ink",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Diskmaskinen\ngår sönder.",
+      "accent": "Har du en buffert?",
+      "sub": "Så stor bör den vara"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.0,
+      "question": "Mål: 60 000 kr (3 mån à 20 000 kr). Du sparar 2 500 kr/mån. Hur lång tid tar det?",
+      "options": [
+        "6 månader",
+        "1 år",
+        "2 år"
+      ],
+      "answer": 2,
+      "reveal": "2 år – 60 000 kr ÷ 2 500 kr = 24 månader."
+    },
+    {
+      "type": "myth",
+      "dur": 5.2,
+      "myth": "En buffert är pengar som bara ligger och gör ingenting",
+      "fact": "Den skyddar dig från dyra lån när något händer."
+    },
+    {
+      "type": "steps",
+      "dur": 6.2,
+      "title": "Så bygger du\nbufferten",
+      "items": [
+        "Räkna dina nödvändiga utgifter per månad",
+        "Första delmål: en månad",
+        "Automatisk överföring på lönedagen",
+        "Separat konto – nåbart direkt"
+      ]
+    },
+    {
+      "type": "end",
+      "dur": 4.5,
+      "kicker": "Din buffert",
+      "big": "60 000 kr",
+      "rows": [
+        [
+          "3 × 20 000 kr",
+          "60 000 kr"
+        ],
+        [
+          "1 månad (delmål)",
+          "8 mån à 2 500"
+        ]
+      ],
+      "cta": "Räkna fram din buffert på guldgrisen.se",
+      "note": "Räkneexempel: 20 000 kr i nödvändiga utgifter per månad, 2 500 kr sparat per månad, utan ränta."
+    }
+  ]
+}
