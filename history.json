@@ -35,5 +35,15 @@
     "story_layout": "question",
     "theme": "cream",
     "metricool_items": 2
+  },
+  {
+    "date": "2026-11-09",
+    "category": "budget",
+    "topic": "Rensa prenumerationerna – säg upp det du inte använder",
+    "post_layout": "tips",
+    "story_layout": "question",
+    "theme": "green",
+    "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – räkneexempel bygger på egna beräkningar",
+    "metricool_items": 2
   }
 ]

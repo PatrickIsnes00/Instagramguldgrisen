@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-09",
+  "topic": "Rensa prenumerationerna – säg upp det du inte använder",
+  "category": "budget",
+  "post": {
+    "layout": "tips",
+    "theme": "green",
+    "kicker": "Prenumerationer",
+    "title": "Rensa dina prenumerationer på en kvart",
+    "items": [
+      "Gå igenom kontoutdraget för de senaste tre månaderna",
+      "Lista varje dragning – även de små på 29–59 kr",
+      "Fråga: har jag använt den den senaste månaden?",
+      "Säg upp det du inte använder direkt – inte ”sen”"
+    ],
+    "note": "Räkneexempel: säger du upp två tjänster för 139 kr + 59 kr sparar du 198 kr/mån – 2 376 kr per år.",
+    "footer": "Lista dina prenumerationer på guldgrisen.se"
+  },
+  "story": {
+    "layout": "question",
+    "theme": "gold",
+    "kicker": "Fråga",
+    "question": "Hur många prenumerationer betalar du för just nu?",
+    "sub": "Gissa först – räkna sedan på kontoutdraget. Summan kan överraska.",
+    "cta": "Lista dem och se kostnaden per år",
+    "footer": "Länk i bio"
+  },
+  "caption": "När använde du senast alla tjänster du betalar för varje månad? 📺\n\nRäkneexempel: du har fyra prenumerationer för 139, 129, 99 och 59 kr – totalt 426 kr i månaden, eller 5 112 kr om året. Säger du upp två du knappt använder (139 kr + 59 kr) sparar du 198 kr i månaden. Det blir 2 376 kr per år och 11 880 kr på fem år.\n\nSå gör du på en kvart:\n1️⃣ Gå igenom kontoutdraget för de senaste tre månaderna – vissa dras bara en gång per kvartal eller år.\n2️⃣ Lista varje dragning, även de små på 29–59 kr. Det är de som är lättast att glömma.\n3️⃣ Fråga dig: har jag använt den den senaste månaden? Om inte – säg upp den.\n4️⃣ Gör det direkt. Du kan alltid starta en tjänst igen när du faktiskt vill använda den.\n\n🧮 Lista dina prenumerationer och se vad de kostar per år på guldgrisen.se (länk i bio).\n\n#prenumerationer #budget #privatekonomi #spartips #hushållsbudget #guldgrisen #ekonomi #sparande",
+  "alt_text": "Grön bild från Guldgrisen.se med fyra steg för att rensa prenumerationer: gå igenom kontoutdraget för tre månader, lista varje dragning, fråga om du använt tjänsten senaste månaden och säg upp direkt. Räkneexempel: två tjänster för 139 och 59 kr ger 198 kr i månaden och 2 376 kr per år."
+}
