@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-10",
+  "topic": "Nya bolånetaket – 10 % kontantinsats och vad det betyder i amortering",
+  "category": "bolan",
+  "theme": "gold",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Lägenhet för\n3 miljoner?",
+      "accent": "Nu räcker 300 000 kr",
+      "sub": "Bolånetaket är 90 %"
+    },
+    {
+      "type": "compare",
+      "dur": 5.5,
+      "title": "Kontantinsats på\n3 000 000 kr",
+      "a": {
+        "label": "Förr: 15 %",
+        "value": "450 000 kr",
+        "sub": "Bolånetak 85 %"
+      },
+      "b": {
+        "label": "Nu: 10 %",
+        "value": "300 000 kr",
+        "sub": "Bolånetak 90 % sedan 1 april"
+      },
+      "verdict": "150 000 kr mindre att spara ihop"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.2,
+      "question": "Du sparar 5 000 kr/mån. Hur lång tid till 300 000 kr?",
+      "options": [
+        "3 år",
+        "5 år",
+        "7,5 år"
+      ],
+      "answer": 1,
+      "reveal": "5 år (60 mån). Med 15 % hade det tagit 7,5 år."
+    },
+    {
+      "type": "myth",
+      "dur": 5.4,
+      "myth": "Mindre kontantinsats = billigare boende",
+      "fact": "Lånet blir större.\nÖver 70 % amorterar du 2 % per år:\n4 500 kr/mån."
+    },
+    {
+      "type": "end",
+      "dur": 4.5,
+      "kicker": "Räkneexempel",
+      "big": "2 700 000 kr",
+      "rows": [
+        [
+          "Kontantinsats 10 %",
+          "300 000 kr"
+        ],
+        [
+          "Amortering 2 %/år",
+          "4 500 kr/mån"
+        ]
+      ],
+      "cta": "Räkna på ditt bolån på guldgrisen.se",
+      "note": "Räkneexempel: bostad 3 000 000 kr, lån 90 %, amortering 2 % per år. Ränta tillkommer. Inget personligt råd."
+    }
+  ]
+}

@@ -78,5 +78,19 @@
     ],
     "theme": "ink",
     "note": "guldgrisen.se kunde inte hämtas – bygger bara på egna beräkningar"
+  },
+  {
+    "date": "2026-11-10",
+    "category": "bolan",
+    "topic": "Nya bolånetaket – 10 % kontantinsats och vad det betyder i amortering",
+    "scenes": [
+      "hook",
+      "compare",
+      "quiz",
+      "myth",
+      "end"
+    ],
+    "theme": "gold",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; bolånetak 90 % och amorteringskrav kontrollerade via webbsökning (Ekonomifakta)"
   }
 ]
