@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-11",
+  "topic": "Spara barnbidraget i 16 år – 1 250 kr/mån blir ca 432 000 kr",
+  "category": "barn",
+  "theme": "cream",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Spara hela\nbarnbidraget?",
+      "accent": "Det kan bli 430 000 kr",
+      "sub": "1 250 kr/mån i 16 år"
+    },
+    {
+      "type": "quiz",
+      "dur": 5.8,
+      "question": "1 250 kr/mån från födseln till 16 år. Hur mycket blir det?",
+      "options": [
+        "240 000 kr",
+        "330 000 kr",
+        "430 000 kr"
+      ],
+      "answer": 2,
+      "reveal": "Ca 431 578 kr vid 7 %/år – du satte in 240 000 kr."
+    },
+    {
+      "type": "counter",
+      "dur": 7.0,
+      "label": "Barnbidraget i en fond, 7 %/år",
+      "unit_label": "år",
+      "value_fmt": "kr",
+      "in_label": "Barnbidraget",
+      "gain_label": "Avkastning",
+      "points": [
+        {
+          "x": 1,
+          "in": 15000,
+          "gain": 475
+        },
+        {
+          "x": 2,
+          "in": 30000,
+          "gain": 2034
+        },
+        {
+          "x": 3,
+          "in": 45000,
+          "gain": 4752
+        },
+        {
+          "x": 4,
+          "in": 60000,
+          "gain": 8710
+        },
+        {
+          "x": 5,
+          "in": 75000,
+          "gain": 13995
+        },
+        {
+          "x": 6,
+          "in": 90000,
+          "gain": 20700
+        },
+        {
+          "x": 7,
+          "in": 105000,
+          "gain": 28924
+        },
+        {
+          "x": 8,
+          "in": 120000,
+          "gain": 38774
+        },
+        {
+          "x": 9,
+          "in": 135000,
+          "gain": 50364
+        },
+        {
+          "x": 10,
+          "in": 150000,
+          "gain": 63815
+        },
+        {
+          "x": 11,
+          "in": 165000,
+          "gain": 79257
+        },
+        {
+          "x": 12,
+          "in": 180000,
+          "gain": 96830
+        },
+        {
+          "x": 13,
+          "in": 195000,
+          "gain": 116684
+        },
+        {
+          "x": 14,
+          "in": 210000,
+          "gain": 138977
+        },
+        {
+          "x": 15,
+          "in": 225000,
+          "gain": 163881
+        },
+        {
+          "x": 16,
+          "in": 240000,
+          "gain": 191578
+        }
+      ]
+    },
+    {
+      "type": "compare",
+      "dur": 5.2,
+      "title": "Hela eller en del?\nEfter 16 år",
+      "a": {
+        "label": "500 kr/mån",
+        "value": "173 000 kr",
+        "sub": "Insatt 96 000 kr"
+      },
+      "b": {
+        "label": "1 250 kr/mån",
+        "value": "432 000 kr",
+        "sub": "Insatt 240 000 kr"
+      },
+      "verdict": "Även en del av bidraget gör skillnad"
+    },
+    {
+      "type": "end",
+      "dur": 4.4,
+      "kicker": "Räkneexempel",
+      "big": "431 578 kr",
+      "rows": [
+        [
+          "Insatt på 16 år",
+          "240 000 kr"
+        ],
+        [
+          "Avkastning",
+          "191 578 kr"
+        ]
+      ],
+      "cta": "Mer om barn & pengar på guldgrisen.se",
+      "note": "Räkneexempel: 1 250 kr/mån i 192 mån, antagen avkastning 7 %/år, före skatt och avgifter. Framtida avkastning är inte garanterad. Inget personligt råd."
+    }
+  ]
+}

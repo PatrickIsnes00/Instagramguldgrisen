@@ -92,5 +92,19 @@
     ],
     "theme": "gold",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; bolånetak 90 % och amorteringskrav kontrollerade via webbsökning (Ekonomifakta)"
+  },
+  {
+    "date": "2026-11-11",
+    "category": "barn",
+    "topic": "Spara barnbidraget i 16 år – 1 250 kr/mån blir ca 432 000 kr",
+    "scenes": [
+      "hook",
+      "quiz",
+      "counter",
+      "compare",
+      "end"
+    ],
+    "theme": "cream",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; barnbidrag 1 250 kr/mån 2026 kontrollerat via webbsökning"
   }
 ]
