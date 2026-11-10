@@ -6,14 +6,14 @@
   "scenes": [
     {
       "type": "hook",
-      "dur": 2.6,
+      "dur": 2.5,
       "title": "Spara hela\nbarnbidraget?",
       "accent": "Det kan bli 430 000 kr",
       "sub": "1 250 kr/mån i 16 år"
     },
     {
       "type": "quiz",
-      "dur": 5.8,
+      "dur": 5.6,
       "question": "1 250 kr/mån från födseln till 16 år. Hur mycket blir det?",
       "options": [
         "240 000 kr",
@@ -25,7 +25,7 @@
     },
     {
       "type": "counter",
-      "dur": 7.0,
+      "dur": 6.6,
       "label": "Barnbidraget i en fond, 7 %/år",
       "unit_label": "år",
       "value_fmt": "kr",
@@ -116,7 +116,7 @@
     },
     {
       "type": "compare",
-      "dur": 5.2,
+      "dur": 5.0,
       "title": "Hela eller en del?\nEfter 16 år",
       "a": {
         "label": "500 kr/mån",
@@ -132,7 +132,7 @@
     },
     {
       "type": "end",
-      "dur": 4.4,
+      "dur": 4.3,
       "kicker": "Räkneexempel",
       "big": "431 578 kr",
       "rows": [
