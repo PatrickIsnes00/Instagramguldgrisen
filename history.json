@@ -45,5 +45,15 @@
     "theme": "green",
     "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – räkneexempel bygger på egna beräkningar",
     "metricool_items": 2
+  },
+  {
+    "date": "2026-11-11",
+    "category": "investera",
+    "topic": "ISK 2026 – de första 300 000 kr är skattefria",
+    "post_layout": "stat",
+    "story_layout": null,
+    "theme": "ink",
+    "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – fakta från Handelsbanken och Placera (schablonränta 3,55 %, gräns 300 000 kr)",
+    "metricool_items": 1
   }
 ]
