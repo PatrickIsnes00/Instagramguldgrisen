@@ -106,5 +106,19 @@
     ],
     "theme": "cream",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; barnbidrag 1 250 kr/mån 2026 kontrollerat via webbsökning"
+  },
+  {
+    "date": "2026-11-12",
+    "category": "ordlista",
+    "topic": "Inflation och köpkraft – 100 000 kr på kontot är värda ca 82 000 kr om 10 år vid 2 %",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "myth",
+      "end"
+    ],
+    "theme": "green",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – bygger bara på egna beräkningar med antagen inflation 2 % och sparränta 1,5 %"
   }
 ]

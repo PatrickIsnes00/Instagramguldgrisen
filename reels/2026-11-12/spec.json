@@ -1,0 +1,13 @@
+{
+  "date": "2026-11-12",
+  "topic": "Inflation och köpkraft – 100 000 kr på kontot är värda ca 82 000 kr om 10 år vid 2 %",
+  "category": "ordlista",
+  "theme": "green",
+  "scenes": [
+    {"type": "hook", "dur": 2.5, "title": "Dina pengar\nkrymper", "accent": "utan att du ser det", "sub": "Det heter inflation"},
+    {"type": "quiz", "dur": 5.8, "question": "100 000 kr ligger still i 10 år. 2 % inflation per år. Vad är de värda?", "options": ["100 000 kr", "90 000 kr", "82 000 kr"], "answer": 2, "reveal": "Ca 82 035 kr i dagens penningvärde."},
+    {"type": "compare", "dur": 5.2, "title": "Köpkraft efter 10 år\nvid 2 % inflation", "a": {"label": "0 % ränta", "value": "82 035 kr", "sub": "Tappar ca 18 000 kr"}, "b": {"label": "1,5 % ränta", "value": "95 205 kr", "sub": "Tappar ca 4 800 kr"}, "verdict": "Räntan bromsar – men hinner inte ikapp"},
+    {"type": "myth", "dur": 5.0, "myth": "Pengar på kontot tappar aldrig värde", "fact": "Summan står still – priserna gör det inte"},
+    {"type": "end", "dur": 4.5, "kicker": "Ordlista", "big": "Köpkraft", "rows": [["Värt om 10 år", "82 035 kr"], ["Samma köpkraft kräver", "121 899 kr"]], "cta": "Fler begrepp förklarade i ordlistan på guldgrisen.se", "note": "Räkneexempel: antagen inflation 2 %/år i 10 år, sparränta 1,5 %/år före skatt. Verklig inflation och ränta varierar. Inget personligt råd."}
+  ]
+}
