@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-13",
+  "topic": "4 %-regeln – 10 000 kr i månaden från sparandet kräver ca 3 mkr",
+  "category": "investera",
+  "theme": "gold",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.5,
+      "title": "Hur mycket\nbehöver du?",
+      "accent": "För att leva på sparandet",
+      "sub": "Tumregeln heter 4 %-regeln"
+    },
+    {
+      "type": "quiz",
+      "dur": 5.8,
+      "question": "Du vill ta ut 10 000 kr i månaden. Hur mycket behöver du ha sparat enligt 4 %-regeln?",
+      "options": [
+        "1 mkr",
+        "3 mkr",
+        "5 mkr"
+      ],
+      "answer": 1,
+      "reveal": "120 000 kr per år × 25 = 3 mkr"
+    },
+    {
+      "type": "compare",
+      "dur": 5.2,
+      "title": "10 000 kr/mån –\nolika uttagstakt",
+      "a": {
+        "label": "Ta ut 4 %/år",
+        "value": "3 mkr",
+        "sub": "25 × årsuttaget"
+      },
+      "b": {
+        "label": "Ta ut 3 %/år",
+        "value": "4 mkr",
+        "sub": "Större marginal"
+      },
+      "verdict": "Lägre uttag kräver mer – men tål sämre år bättre"
+    },
+    {
+      "type": "myth",
+      "dur": 5.0,
+      "myth": "4 % betyder att pengarna aldrig tar slut",
+      "fact": "Det är en tumregel från historik – ingen garanti"
+    },
+    {
+      "type": "end",
+      "dur": 4.5,
+      "kicker": "4 %-regeln",
+      "big": "× 25",
+      "rows": [
+        [
+          "Årsuttag",
+          "120 000 kr"
+        ],
+        [
+          "Kapital vid 4 %",
+          "3 000 000 kr"
+        ]
+      ],
+      "cta": "Räkna på ditt mål med 4 %‑kalkylatorn på guldgrisen.se",
+      "note": "Räkneexempel: uttag 4 % resp. 3 % av startkapitalet per år, före skatt och avgifter. Bygger på historisk avkastning – framtida avkastning är inte garanterad. Inget personligt råd."
+    }
+  ]
+}

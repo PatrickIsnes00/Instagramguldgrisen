@@ -120,5 +120,19 @@
     ],
     "theme": "green",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – bygger bara på egna beräkningar med antagen inflation 2 % och sparränta 1,5 %"
+  },
+  {
+    "date": "2026-11-13",
+    "category": "investera",
+    "topic": "4 %-regeln – 10 000 kr i månaden från sparandet kräver ca 3 mkr",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "myth",
+      "end"
+    ],
+    "theme": "gold",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – bygger bara på egna beräkningar (årsuttag × 25)"
   }
 ]
