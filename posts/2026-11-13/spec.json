@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-13",
+  "topic": "Föräldrapenning 2026 – så mycket får du och var taket slår in",
+  "category": "lon_familj",
+  "post": {
+    "layout": "compare",
+    "theme": "gold",
+    "kicker": "Föräldrapenning 2026",
+    "title": "Hur mycket får du\nnär du är föräldraledig?",
+    "a": {
+      "label": "Lön 35 000 kr/mån",
+      "value": "≈ 26 800 kr",
+      "sub": "893 kr/dag · ca 77 % av lönen"
+    },
+    "b": {
+      "label": "Lön 55 000 kr/mån",
+      "value": "≈ 37 800 kr",
+      "sub": "1 259 kr/dag (tak) · ca 69 %"
+    },
+    "highlight": "a",
+    "verdict": "Över ca 49 300 kr/mån slår taket in –\nkolla om din arbetsgivare ger föräldralön.",
+    "note": "Räkneexempel 2026: sjukpenningnivå, 30 dagar/mån, före skatt. Tak: SGI 592 000 kr/år (10 prisbasbelopp).",
+    "footer": "Räkna själv i föräldrapenningkalkylatorn"
+  },
+  "story": {
+    "layout": "tips",
+    "theme": "green",
+    "kicker": "Inför föräldraledigheten",
+    "title": "3 saker att kolla\ni god tid",
+    "items": [
+      "Din SGI – den styr hur mycket du får per dag.",
+      "Om du har rätt till föräldralön från jobbet.",
+      "Hur ni delar de 480 dagarna – 90 är reserverade per förälder."
+    ],
+    "footer": "Föräldrapenningkalkylatorn – länk i bio"
+  },
+  "caption": "Hur mycket får du egentligen i föräldrapenning? 👶\n\nRäkneexempel för 2026 (sjukpenningnivå, 7 dagar i veckan ≈ 30 dagar/mån, före skatt):\n• Lön 35 000 kr/mån → ca 893 kr/dag ≈ 26 800 kr/mån (ca 77 % av lönen)\n• Lön 55 000 kr/mån → 1 259 kr/dag (taket) ≈ 37 800 kr/mån (ca 69 %)\n\nSå räknas det: knappt 80 % av din sjukpenninggrundande inkomst (SGI), men bara upp till 592 000 kr om året (10 prisbasbelopp). Tjänar du mer än ca 49 300 kr i månaden får du alltså samma belopp som taket.\n\nBra att veta:\n1️⃣ Kolla din SGI hos Försäkringskassan i god tid – den styr dagbeloppet.\n2️⃣ Fråga om föräldralön. Många arbetsgivare med kollektivavtal betalar föräldralön ovanpå föräldrapenningen under en period – särskilt värdefullt om du ligger över taket.\n3️⃣ Ni har 480 dagar per barn tillsammans, och 90 av dagarna är reserverade för var och en av er.\n4️⃣ Tar du ut färre dagar i veckan räcker dagarna längre – men pengarna per månad blir mindre.\n\n🧮 Räkna på just din lön i föräldrapenningkalkylatorn på guldgrisen.se (länk i bio).\n\n#föräldrapenning #föräldraledig #föräldraledighet #privatekonomi #barnfamilj #försäkringskassan #ekonomitips #guldgrisen",
+  "alt_text": "Gul bild från Guldgrisen.se om föräldrapenning 2026. Räkneexempel på sjukpenningnivå, 30 dagar i månaden före skatt: med lön 35 000 kr i månaden blir det cirka 26 800 kr, med lön 55 000 kr cirka 37 800 kr eftersom taket är 1 259 kr per dag. Över cirka 49 300 kr i månaden slår taket in."
+}

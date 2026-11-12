@@ -55,5 +55,15 @@
     "theme": "ink",
     "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – fakta från Handelsbanken och Placera (schablonränta 3,55 %, gräns 300 000 kr)",
     "metricool_items": 1
+  },
+  {
+    "date": "2026-11-13",
+    "category": "lon_familj",
+    "topic": "Föräldrapenning 2026 – så mycket får du och var taket slår in",
+    "post_layout": "compare",
+    "story_layout": "tips",
+    "theme": "gold",
+    "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – belopp 2026 (tak 1 259 kr/dag, PBB 59 200 kr, SGI-tak 592 000 kr) från Försäkringskassans aktuella belopp",
+    "metricool_items": 2
   }
 ]
