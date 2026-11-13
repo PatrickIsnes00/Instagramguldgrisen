@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-14",
+  "topic": "Billån med restvärde – lägre månadskostnad men ca 11 800 kr mer i ränta",
+  "category": "lan",
+  "theme": "ink",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Billig bil\ni månaden?",
+      "accent": "Kolla restvärdet",
+      "sub": "Den lägre kostnaden har ett pris"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.0,
+      "question": "Lån 240 000 kr i 3 år, 7 % ränta. Vilket upplägg ger mest ränta totalt?",
+      "options": [
+        "Utan restvärde",
+        "Med 120 000 kr i restvärde",
+        "Lika mycket"
+      ],
+      "answer": 1,
+      "reveal": "Med restvärde betalar du ränta på mer pengar längre"
+    },
+    {
+      "type": "compare",
+      "dur": 5.8,
+      "title": "Samma lån –\ntvå upplägg",
+      "a": {
+        "label": "Utan restvärde",
+        "value": "7 411 kr",
+        "sub": "i månaden · ränta ca 26 800 kr"
+      },
+      "b": {
+        "label": "Restvärde 120 000 kr",
+        "value": "4 405 kr",
+        "sub": "i månaden · ränta ca 38 600 kr"
+      },
+      "verdict": "3 000 kr lägre i månaden – men ca 11 800 kr mer i ränta"
+    },
+    {
+      "type": "myth",
+      "dur": 5.2,
+      "myth": "Efter 3 år är bilen betald",
+      "fact": "Du är skyldig 120 000 kr när avtalet tar slut"
+    },
+    {
+      "type": "end",
+      "dur": 4.8,
+      "kicker": "Billån",
+      "big": "+11 800 kr",
+      "rows": [
+        ["Kvar att betala efter 3 år", "120 000 kr"],
+        ["Extra ränta med restvärde", "ca 11 800 kr"]
+      ],
+      "cta": "Räkna på ditt billån med billånekalkylatorn på guldgrisen.se",
+      "note": "Räkneexempel: lån 240 000 kr, 7 % fast ränta, 36 månader, annuitet. Före avgifter och eventuellt ränteavdrag. Inget personligt råd."
+    }
+  ]
+}

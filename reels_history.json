@@ -134,5 +134,19 @@
     ],
     "theme": "gold",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – bygger bara på egna beräkningar (årsuttag × 25)"
+  },
+  {
+    "date": "2026-11-14",
+    "category": "lan",
+    "topic": "Billån med restvärde – lägre månadskostnad men ca 11 800 kr mer i ränta",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "myth",
+      "end"
+    ],
+    "theme": "ink",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar med antagen ränta 7 %, 36 mån, restvärde 120 000 kr"
   }
 ]
