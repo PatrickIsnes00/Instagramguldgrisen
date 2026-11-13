@@ -4,3 +4,4 @@ reels/*/frame_*.jpg
 reels/*/_reel.html
 reels/*/_tmp_reel.mp4
 __pycache__/
+reels/*/reel.mp4

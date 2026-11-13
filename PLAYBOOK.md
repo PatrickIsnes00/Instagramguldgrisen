@@ -108,6 +108,6 @@ Reels skapas varje kväll för nästa dag. De går **inte** via Metricool och r�
 - **Max 5 hashtags.**
 
 ### Leverans
-- Committa `reels/<datum>/spec.json`, `reel.mp4` och `caption.txt` och pusha till `main`.
-- Rå-länk: `https://raw.githubusercontent.com/PatrickIsnes00/Instagramguldgrisen/main/reels/<datum>/reel.mp4`
-- Skicka en notis till Patrick med länken och hela beskrivningen.
+- `reel.mp4` laddas **inte** upp till repot (Metricool används inte för reels). Videon skickas bara till Patrick i chatten (SendUserFile).
+- Committa bara `reels/<datum>/spec.json`, `caption.txt` och `reels_history.json` och pusha till `main` (behövs för variationsreglerna).
+- Skicka hela beskrivningen i chatten och en notis till Patrick med ämnet och hela beskrivningen.
