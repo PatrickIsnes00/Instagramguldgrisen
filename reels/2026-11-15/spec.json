@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-15",
+  "topic": "Tid slår timing – börja spara vid 25 eller 35 (ca 2,47 mkr mot 1,17 mkr)",
+  "category": "sparande",
+  "theme": "cream",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Börja 10 år\nsenare",
+      "accent": "= 1,3 mkr mindre",
+      "sub": "Samma 1 000 kr i månaden"
+    },
+    {
+      "type": "compare",
+      "dur": 5.6,
+      "title": "1 000 kr/mån\nfram till 65 år",
+      "a": {
+        "label": "Börjar vid 25",
+        "value": "2,47 mkr",
+        "sub": "40 år · insatt 480 000 kr"
+      },
+      "b": {
+        "label": "Börjar vid 35",
+        "value": "1,17 mkr",
+        "sub": "30 år · insatt 360 000 kr"
+      },
+      "verdict": "120 000 kr mer insatt – 1,3 mkr mer i slutet"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.2,
+      "question": "Börjar du vid 35 – hur mycket måste du spara i månaden för att komma ikapp?",
+      "options": [
+        "1 300 kr",
+        "1 700 kr",
+        "2 100 kr"
+      ],
+      "answer": 2,
+      "reveal": "Mer än dubbelt så mycket – tio år är svåra att köpa tillbaka"
+    },
+    {
+      "type": "myth",
+      "dur": 4.8,
+      "myth": "Jag har missat tåget – det är för sent att börja",
+      "fact": "30 år ger ändå ca 1,17 mkr. Bästa dagen att börja är i dag"
+    },
+    {
+      "type": "end",
+      "dur": 4.8,
+      "kicker": "Ränta på ränta",
+      "big": "Tid > timing",
+      "rows": [
+        [
+          "Start vid 25",
+          "ca 2,47 mkr"
+        ],
+        [
+          "Start vid 35",
+          "ca 1,17 mkr"
+        ]
+      ],
+      "cta": "Testa din egen start med ränta på ränta-kalkylatorn på guldgrisen.se",
+      "note": "Räkneexempel: 1 000 kr/mån, antagen avkastning 7 % per år, före skatt och avgifter. Framtida avkastning är inte garanterad. Inget personligt råd."
+    }
+  ]
+}

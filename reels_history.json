@@ -148,5 +148,19 @@
     ],
     "theme": "ink",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar med antagen ränta 7 %, 36 mån, restvärde 120 000 kr"
+  },
+  {
+    "date": "2026-11-15",
+    "category": "sparande",
+    "topic": "Tid slår timing – börja spara vid 25 eller 35 (ca 2,47 mkr mot 1,17 mkr)",
+    "scenes": [
+      "hook",
+      "compare",
+      "quiz",
+      "myth",
+      "end"
+    ],
+    "theme": "cream",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar med 1 000 kr/mån och antagen avkastning 7 % per år"
   }
 ]
