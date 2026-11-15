@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-16",
+  "topic": "Hyra eller köpa – jämför hyran med boendekostnaden, inte med hela bolånebetalningen",
+  "category": "beslut",
+  "post": {
+    "layout": "stat",
+    "theme": "cream",
+    "kicker": "Hyra eller köpa",
+    "title": "Vad kostar en bostadsrätt för 3 mkr egentligen varje månad?",
+    "number": "≈ 12 100",
+    "unit": "kr/mån",
+    "rows": [["Ränta 3,5 % efter ränteavdrag", "5 206 kr"], ["Månadsavgift", "4 000 kr"], ["Underhåll (antaget)", "1 000 kr"], ["Utebliven avkastning på insatsen (5 %)", "1 875 kr"]],
+    "note": "Räkneexempel: 15 % insats (450 000 kr), lån 2,55 mkr. Amorteringen (2 % = 4 250 kr/mån) är sparande och ingår inte. Avkastning är inte garanterad.",
+    "footer": "Jämför i hyra eller köpa-kalkylatorn"
+  },
+  "story": {
+    "layout": "myth",
+    "theme": "green",
+    "myth": "Att hyra är att slänga pengar i sjön.",
+    "fact": "Den som äger har också kostnader som aldrig kommer tillbaka: ränta, avgift och underhåll.",
+    "note": "Jämför hyran med de kostnaderna – inte med hela bolånebetalningen.",
+    "footer": "Hyra eller köpa-kalkylatorn – länk i bio"
+  },
+  "caption": "Är det verkligen billigare att äga än att hyra? 🏠\n\nRäkneexempel: bostadsrätt för 3 000 000 kr, 15 % kontantinsats (450 000 kr) och ett bolån på 2 550 000 kr till 3,5 % ränta.\n• Ränta efter 30 % ränteavdrag: ca 5 206 kr/mån\n• Månadsavgift: 4 000 kr\n• Underhåll (antaget): 1 000 kr\n• Utebliven avkastning på insatsen om den i stället hade gett 5 % om året: 1 875 kr\n= ca 12 100 kr i månaden i verklig boendekostnad.\n\nAmorteringen – 2 % om året eftersom lånet är 85 % av värdet, ca 4 250 kr/mån – kommer du betala varje månad, men den är ett sparande i bostaden och inte en kostnad.\n\nSå kan du tänka:\n1️⃣ Jämför hyran med ränta, avgift och underhåll – inte med hela månadsbetalningen.\n2️⃣ Glöm inte att kontantinsatsen hade kunnat växa någon annanstans.\n3️⃣ Tänk på hur länge du planerar att bo kvar. Köp och sälj kostar, och priserna kan gå både upp och ner.\n4️⃣ Räkna med din egen ränta och avgift – små ändringar flyttar resultatet mycket.\n\nRäkneexemplet är ingen rekommendation, och framtida avkastning är inte garanterad.\n\n🧮 Räkna på ditt eget läge i kalkylatorn Hyra eller köpa på guldgrisen.se (länk i bio).\n\n#hyraellerköpa #bostadsrätt #bolån #boendekostnad #privatekonomi #ekonomitips #förstabostaden #guldgrisen",
+  "alt_text": "Ljus bild från Guldgrisen.se: Vad kostar en bostadsrätt för 3 miljoner kronor egentligen varje månad? Cirka 12 100 kronor: ränta 3,5 procent efter ränteavdrag 5 206 kr, månadsavgift 4 000 kr, underhåll 1 000 kr och utebliven avkastning på insatsen 1 875 kr. Räkneexempel med 15 procents insats; amorteringen på 4 250 kr i månaden är sparande och ingår inte."
+}

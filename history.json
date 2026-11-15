@@ -65,5 +65,15 @@
     "theme": "gold",
     "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – belopp 2026 (tak 1 259 kr/dag, PBB 59 200 kr, SGI-tak 592 000 kr) från Försäkringskassans aktuella belopp",
     "metricool_items": 2
+  },
+  {
+    "date": "2026-11-16",
+    "category": "beslut",
+    "topic": "Hyra eller köpa – jämför hyran med boendekostnaden, inte med hela bolånebetalningen",
+    "post_layout": "stat",
+    "story_layout": "myth",
+    "theme": "cream",
+    "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – räkneexempel bygger på egna beräkningar; ränteavdrag 30 % och amorteringskrav (2 % över 70 % belåning) kontrollerade via webbsökning",
+    "metricool_items": 2
   }
 ]
