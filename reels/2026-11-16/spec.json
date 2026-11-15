@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-16",
+  "topic": "Föräldrapenningens tak – över ca 49 300 kr/mån i lön får du inte 80 % (max 1 259 kr/dag 2026)",
+  "category": "lon_familj",
+  "theme": "green",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "80 % av lönen\ni föräldra-\npenning?",
+      "accent": "Inte över taket",
+      "sub": "Så funkar taket 2026"
+    },
+    {
+      "type": "quiz",
+      "dur": 5.8,
+      "question": "Vad är mest du kan få i föräldrapenning per dag 2026?",
+      "options": [
+        "980 kr",
+        "1 259 kr",
+        "1 600 kr"
+      ],
+      "answer": 1,
+      "reveal": "Taket nås vid ca 49 300 kr/mån i lön (592 000 kr/år)"
+    },
+    {
+      "type": "compare",
+      "dur": 5.4,
+      "title": "Föräldrapenning\nper månad",
+      "a": {
+        "label": "Lön 35 000 kr",
+        "value": "26 790 kr",
+        "sub": "893 kr/dag · ca 77 % av lönen"
+      },
+      "b": {
+        "label": "Lön 60 000 kr",
+        "value": "37 770 kr",
+        "sub": "1 259 kr/dag · ca 63 % av lönen"
+      },
+      "verdict": "Över taket tappar du ca 22 200 kr i månaden mot lönen"
+    },
+    {
+      "type": "steps",
+      "dur": 6.0,
+      "title": "Innan du går på ledighet",
+      "items": [
+        "Kolla om du har föräldralön via jobbet",
+        "Räkna fram din egen månadssumma",
+        "Spara en buffert för mellanskillnaden"
+      ]
+    },
+    {
+      "type": "end",
+      "dur": 4.4,
+      "kicker": "Föräldrapenning 2026",
+      "big": "1 259 kr/dag",
+      "rows": [
+        [
+          "Tak för SGI",
+          "592 000 kr/år"
+        ],
+        [
+          "Ersättning",
+          "ca 80 % upp till taket"
+        ]
+      ],
+      "cta": "Räkna på din ledighet med föräldrapenning-kalkylatorn på guldgrisen.se",
+      "note": "Räkneexempel före skatt, 30 dagar/mån, SGI = årslön × 0,97 × 80 %. Belopp enligt Försäkringskassan 2026. Föräldralön ingår inte."
+    }
+  ]
+}

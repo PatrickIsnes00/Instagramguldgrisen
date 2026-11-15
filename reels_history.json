@@ -162,5 +162,19 @@
     ],
     "theme": "cream",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar med 1 000 kr/mån och antagen avkastning 7 % per år"
+  },
+  {
+    "date": "2026-11-16",
+    "category": "lon_familj",
+    "topic": "Föräldrapenningens tak – över ca 49 300 kr/mån i lön får du inte 80 % (max 1 259 kr/dag 2026)",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "steps",
+      "end"
+    ],
+    "theme": "green",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; tak 1 259 kr/dag och SGI-tak 592 000 kr kontrollerade hos Försäkringskassan"
   }
 ]
