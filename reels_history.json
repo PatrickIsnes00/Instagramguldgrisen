@@ -176,5 +176,19 @@
     ],
     "theme": "green",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; tak 1 259 kr/dag och SGI-tak 592 000 kr kontrollerade hos Försäkringskassan"
+  },
+  {
+    "date": "2026-11-17",
+    "category": "bolan",
+    "topic": "Förhandla bolåneräntan – 0,3 procentenheter lägre på 2,5 mkr ≈ 5 250 kr/år efter ränteavdrag",
+    "scenes": [
+      "hook",
+      "stat",
+      "myth",
+      "steps",
+      "end"
+    ],
+    "theme": "gold",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; ränteavdrag 30 % upp till 100 000 kr kontrollerat via webbsökning (Handelsbanken)"
   }
 ]

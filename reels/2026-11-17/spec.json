@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-17",
+  "topic": "Förhandla bolåneräntan – 0,3 procentenheter lägre på 2,5 mkr ≈ 5 250 kr/år efter ränteavdrag",
+  "category": "bolan",
+  "theme": "gold",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Ett samtal\ntill banken",
+      "accent": "= 5 250 kr om året?",
+      "sub": "Räkneexempel på bolåneräntan"
+    },
+    {
+      "type": "stat",
+      "dur": 5.2,
+      "kicker": "0,3 procentenheter lägre ränta",
+      "number": "5 250",
+      "unit": "kr/år",
+      "rows": [
+        [
+          "Bolån",
+          "2 500 000 kr"
+        ],
+        [
+          "Ränta 3,5 %",
+          "87 500 kr/år"
+        ],
+        [
+          "Ränta 3,2 %",
+          "80 000 kr/år"
+        ],
+        [
+          "Skillnad efter 30 % avdrag",
+          "5 250 kr/år"
+        ]
+      ]
+    },
+    {
+      "type": "myth",
+      "dur": 5.0,
+      "myth": "Räntan banken erbjuder går inte att påverka",
+      "fact": "Listräntan är ett utgångsläge – rabatt går ofta att förhandla"
+    },
+    {
+      "type": "steps",
+      "dur": 6.2,
+      "title": "Så förhandlar du",
+      "items": [
+        "Kolla din ränta mot bankernas snitträntor",
+        "Ta in ett erbjudande från en annan bank",
+        "Ring din bank och be om samma eller bättre"
+      ]
+    },
+    {
+      "type": "end",
+      "dur": 4.5,
+      "kicker": "Förhandla räntan",
+      "big": "≈ 438 kr/mån",
+      "rows": [
+        [
+          "Per år",
+          "5 250 kr"
+        ],
+        [
+          "På 5 år",
+          "ca 26 000 kr"
+        ]
+      ],
+      "cta": "Läs bolåneguiden på guldgrisen.se – länk i bio",
+      "note": "Räkneexempel: lån 2,5 mkr, 3,5 % mot 3,2 %, oförändrat lånebelopp. Ränteavdrag 30 % upp till 100 000 kr ränta/år (2026)."
+    }
+  ]
+}
