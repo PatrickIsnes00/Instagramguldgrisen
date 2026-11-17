@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-18",
+  "topic": "ISK-skatten 2026 – skattefritt upp till 300 000 kr (500 000 kr ger ca 2 130 kr i skatt)",
+  "category": "investera",
+  "theme": "ink",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Betalar du\nskatt på\nditt ISK?",
+      "accent": "Kanske inte\ni år.",
+      "sub": "Nya regler 2026"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.0,
+      "question": "Du har 300 000 kr på ISK. Vad blir skatten 2026?",
+      "options": [
+        "Ca 3 200 kr",
+        "Ca 1 300 kr",
+        "0 kr"
+      ],
+      "answer": 2,
+      "reveal": "Upp till 300 000 kr är skattefritt 2026"
+    },
+    {
+      "type": "compare",
+      "dur": 5.5,
+      "title": "Skatt på 500 000 kr",
+      "a": {
+        "label": "Reglerna 2025",
+        "value": "≈ 3 110 kr",
+        "sub": "150 000 kr fritt · 0,888 %"
+      },
+      "b": {
+        "label": "Reglerna 2026",
+        "value": "≈ 2 130 kr",
+        "sub": "300 000 kr fritt · 1,065 %"
+      },
+      "verdict": "Ca 980 kr lägre skatt per år"
+    },
+    {
+      "type": "myth",
+      "dur": 5.0,
+      "myth": "Har jag inte tjänat något slipper jag ISK-skatt",
+      "fact": "Skatten räknas på värdet – även när börsen går ner"
+    },
+    {
+      "type": "end",
+      "dur": 4.5,
+      "kicker": "ISK 2026",
+      "big": "300 000 kr",
+      "rows": [
+        [
+          "Skattefritt",
+          "upp till 300 000 kr"
+        ],
+        [
+          "Över gränsen",
+          "1,065 % per år"
+        ]
+      ],
+      "cta": "Läs ISK-guiden på guldgrisen.se – länk i bio",
+      "note": "Förenklat räkneexempel: kapitalunderlag 500 000 kr. Gränsen gäller ISK + KF sammanlagt. Skatt 2026: (statslåneränta 2,55 % + 1) × 30 % = 1,065 %. Framtida regler kan ändras."
+    }
+  ]
+}

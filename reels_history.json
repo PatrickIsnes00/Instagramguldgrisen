@@ -190,5 +190,19 @@
     ],
     "theme": "gold",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; ränteavdrag 30 % upp till 100 000 kr kontrollerat via webbsökning (Handelsbanken)"
+  },
+  {
+    "date": "2026-11-18",
+    "category": "investera",
+    "topic": "ISK-skatten 2026 – skattefritt upp till 300 000 kr (500 000 kr ger ca 2 130 kr i skatt)",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "myth",
+      "end"
+    ],
+    "theme": "ink",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; fribelopp 300 000 kr och schablonränta 3,55 % 2026 kontrollerade via webbsökning (Handelsbanken)"
   }
 ]
