@@ -204,5 +204,19 @@
     ],
     "theme": "ink",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; fribelopp 300 000 kr och schablonränta 3,55 % 2026 kontrollerade via webbsökning (Handelsbanken)"
+  },
+  {
+    "date": "2026-11-19",
+    "category": "budget",
+    "topic": "Rensa prenumerationer – 356 kr/mån blir 42 720 kr på 10 år (ca 60 900 kr om du sparar dem i stället vid 7 %)",
+    "scenes": [
+      "hook",
+      "quiz",
+      "counter",
+      "steps",
+      "end"
+    ],
+    "theme": "cream",
+    "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; inga regler i ämnet, webbsökning om uppsägningsregler gav inget som används i reelen"
   }
 ]

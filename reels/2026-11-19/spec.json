@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-19",
+  "topic": "Rensa prenumerationer – 356 kr/mån blir 42 720 kr på 10 år (ca 60 900 kr om du sparar dem i stället vid 7 %)",
+  "category": "budget",
+  "theme": "cream",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Betalar du\nför appar du\nglömt bort?",
+      "accent": "43 000 kr",
+      "sub": "Fyra prenumerationer på 10 år"
+    },
+    {
+      "type": "quiz",
+      "dur": 5.6,
+      "question": "129 + 99 + 79 + 49 kr i månaden. Vad blir det på 10 år?",
+      "options": [
+        "Ca 4 300 kr",
+        "Ca 21 000 kr",
+        "Ca 43 000 kr"
+      ],
+      "answer": 2,
+      "reveal": "356 kr × 120 månader = 42 720 kr"
+    },
+    {
+      "type": "counter",
+      "dur": 6.2,
+      "label": "356 kr/mån i en fond i stället, 7 %/år",
+      "unit_label": "år",
+      "value_fmt": "kr",
+      "in_label": "Insatt",
+      "gain_label": "Avkastning",
+      "points": [
+        {
+          "x": 1,
+          "in": 4272,
+          "gain": 135
+        },
+        {
+          "x": 2,
+          "in": 8544,
+          "gain": 579
+        },
+        {
+          "x": 3,
+          "in": 12816,
+          "gain": 1353
+        },
+        {
+          "x": 4,
+          "in": 17088,
+          "gain": 2481
+        },
+        {
+          "x": 5,
+          "in": 21360,
+          "gain": 3986
+        },
+        {
+          "x": 6,
+          "in": 25632,
+          "gain": 5895
+        },
+        {
+          "x": 7,
+          "in": 29904,
+          "gain": 8238
+        },
+        {
+          "x": 8,
+          "in": 34176,
+          "gain": 11043
+        },
+        {
+          "x": 9,
+          "in": 38448,
+          "gain": 14344
+        },
+        {
+          "x": 10,
+          "in": 42720,
+          "gain": 18174
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "dur": 5.8,
+      "title": "Rensa på 10 minuter",
+      "items": [
+        "Gå igenom kontoutdraget för 3 månader",
+        "Säg upp det du inte använt senaste månaden",
+        "Spara samma belopp automatiskt varje månad"
+      ]
+    },
+    {
+      "type": "end",
+      "dur": 4.4,
+      "kicker": "Prenumerationer",
+      "big": "60 894 kr",
+      "rows": [
+        [
+          "Utan rensning",
+          "42 720 kr borta"
+        ],
+        [
+          "Sparat i 10 år",
+          "ca 60 900 kr"
+        ]
+      ],
+      "cta": "Räkna på dina prenumerationer på guldgrisen.se – länk i bio",
+      "note": "Räkneexempel: 356 kr/mån i 10 år, antagen avkastning 7 %/år efter avgifter, ränta på ränta månadsvis. Framtida avkastning är inte garanterad."
+    }
+  ]
+}
