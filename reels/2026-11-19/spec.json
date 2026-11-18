@@ -86,7 +86,7 @@
     },
     {
       "type": "steps",
-      "dur": 5.8,
+      "dur": 5.6,
       "title": "Rensa på 10 minuter",
       "items": [
         "Gå igenom kontoutdraget för 3 månader",
@@ -96,7 +96,7 @@
     },
     {
       "type": "end",
-      "dur": 4.4,
+      "dur": 4.2,
       "kicker": "Prenumerationer",
       "big": "60 894 kr",
       "rows": [
