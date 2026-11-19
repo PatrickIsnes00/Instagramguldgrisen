@@ -85,5 +85,15 @@
     "theme": "green",
     "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – egna beräkningar: 30 000 kr, 18 % ränta, 1 000 mot 1 500 kr/mån (41 mån/10 155 kr mot 24 mån/5 935 kr)",
     "metricool_items": 1
+  },
+  {
+    "date": "2026-11-20",
+    "category": "barn",
+    "topic": "Spara en del av barnbidraget – 250 kr/mån från födseln kan bli ca 86 300 kr vid 18",
+    "post_layout": "stat",
+    "story_layout": "question",
+    "theme": "ink",
+    "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – barnbidrag 1 250 kr/mån 2026 kontrollerat via webbsökning; egna beräkningar: 250 kr/mån i 18 år, 5 % årlig avkastning",
+    "metricool_items": 2
   }
 ]
