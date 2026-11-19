@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-20",
+  "topic": "Sparmål 100 000 kr – 2 000 kr/mån tar ca 4 år, 1 000 kr/mån ca 7–8 år; beloppet betyder mer än avkastningen på kort sikt",
+  "category": "sparande",
+  "theme": "green",
+  "scenes": [
+    {"type": "hook", "dur": 2.6, "title": "Hur lång tid\ntar det att\nspara ihop", "accent": "100 000 kr?", "sub": "Svaret beror mest på en sak"},
+    {"type": "quiz", "dur": 5.8, "question": "Du sparar 2 000 kr i månaden. När har du 100 000 kr?",
+     "options": ["Om ca 2 år", "Om ca 4 år", "Om ca 8 år"], "answer": 1,
+     "reveal": "50 månader = 4 år och 2 mån (utan avkastning)"},
+    {"type": "compare", "dur": 5.6, "title": "Med 5 % avkastning per år",
+     "a": {"label": "1 000 kr/mån", "value": "7 år 1 mån", "sub": "utan avkastning: 8 år 4 mån"},
+     "b": {"label": "2 000 kr/mån", "value": "3 år 10 mån", "sub": "utan avkastning: 4 år 2 mån"},
+     "verdict": "Dubbla beloppet – nästan halva tiden"},
+    {"type": "myth", "dur": 5.2, "myth": "Avkastningen gör jobbet åt dig", "fact": "Efter knappt 4 år står den för under 10 % av pengarna"},
+    {"type": "end", "dur": 4.4, "kicker": "Sparmål", "big": "3 år 10 mån",
+     "rows": [["Spara", "2 000 kr/mån"], ["Mål", "100 000 kr"]],
+     "cta": "Räkna på ditt sparmål på guldgrisen.se – länk i bio",
+     "note": "Räkneexempel: antagen avkastning 5 %/år, ränta på ränta månadsvis, före skatt och avgifter. Framtida avkastning är inte garanterad."}
+  ]
+}

@@ -218,5 +218,19 @@
     ],
     "theme": "cream",
     "note": "guldgrisen.se kunde inte hämtas (behörighet) – egna beräkningar; inga regler i ämnet, webbsökning om uppsägningsregler gav inget som används i reelen"
+  },
+  {
+    "date": "2026-11-20",
+    "category": "sparande",
+    "topic": "Sparmål 100 000 kr – 2 000 kr/mån tar ca 3 år 10 mån vid 5 % (4 år 2 mån utan avkastning); beloppet betyder mer än avkastningen på kort sikt",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "myth",
+      "end"
+    ],
+    "theme": "green",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – egna beräkningar; inga regler i ämnet att kontrollera (exemplet är före skatt och avgifter)"
   }
 ]
