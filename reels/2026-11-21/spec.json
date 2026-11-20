@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-21",
+  "topic": "Effektiv ränta – smålån 20 000 kr på 9,9 % blir ca 17,5 % effektiv ränta med 495 kr uppläggning + 35 kr avi/mån (kostar ca 3 460 kr på 2 år)",
+  "category": "ordlista",
+  "theme": "gold",
+  "scenes": [
+    {"type": "hook", "dur": 2.6, "title": "9,9 % ränta\npå lånet?", "accent": "Kolla igen.", "sub": "Avgifterna syns inte i räntan"},
+    {"type": "quiz", "dur": 5.8, "question": "Lån 20 000 kr på 2 år, 9,9 % ränta + avgifter. Vad blir effektiv ränta?",
+     "options": ["Ca 10 %", "Ca 13 %", "Ca 17,5 %"], "answer": 2,
+     "reveal": "495 kr uppläggning + 35 kr avi/mån"},
+    {"type": "compare", "dur": 5.6, "title": "Kostnad på 2 år",
+     "a": {"label": "Ränta", "value": "2 127 kr", "sub": "nominell ränta 9,9 %"},
+     "b": {"label": "Avgifter", "value": "1 335 kr", "sub": "uppläggning + avier"},
+     "verdict": "Totalt ca 3 460 kr – avgifterna är nästan 40 %"},
+    {"type": "steps", "dur": 5.8, "title": "Så jämför du lån",
+     "items": ["Titta på effektiv ränta, inte bara räntan", "Jämför totalbeloppet du betalar", "Fråga om avgifterna kan tas bort"]},
+    {"type": "end", "dur": 4.4, "kicker": "Effektiv ränta", "big": "ca 17,5 %",
+     "rows": [["Nominell ränta", "9,9 %"], ["Effektiv ränta", "ca 17,5 %"]],
+     "cta": "Räkna på dina lån på guldgrisen.se – länk i bio",
+     "note": "Räkneexempel: 20 000 kr, 24 mån annuitet, 9,9 % ränta, 495 kr uppläggningsavgift, 35 kr aviavgift/mån. Effektiv ränta = alla kostnader omräknade till årsränta."}
+  ]
+}

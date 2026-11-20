@@ -232,5 +232,19 @@
     ],
     "theme": "green",
     "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – egna beräkningar; inga regler i ämnet att kontrollera (exemplet är före skatt och avgifter)"
+  },
+  {
+    "date": "2026-11-21",
+    "category": "ordlista",
+    "topic": "Effektiv ränta – smålån 20 000 kr på 9,9 % blir ca 17,5 % effektiv ränta med 495 kr uppläggning + 35 kr avi/mån (kostar ca 3 460 kr på 2 år)",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "steps",
+      "end"
+    ],
+    "theme": "gold",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; begreppet effektiv ränta kontrollerat via webbsökning (ny konsumentkreditlag 2026:1011, siffrorna påverkas inte)"
   }
 ]
