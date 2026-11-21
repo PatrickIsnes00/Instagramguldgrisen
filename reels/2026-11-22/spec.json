@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-22",
+  "topic": "Falska investeringar – \"2 % i veckan\" är ca 180 % per år: 10 000 kr skulle bli ca 28 000 kr på 1 år och ca 1,7 mkr på 5 år (mot 10 700 kr vid 7 %/år)",
+  "category": "trygghet",
+  "theme": "ink",
+  "scenes": [
+    {"type": "hook", "dur": 2.6, "title": "”2 % i veckan.\nHelt säkert.”", "accent": "Låter bra?", "sub": "Räkna på det först"},
+    {"type": "quiz", "dur": 5.8, "question": "10 000 kr växer 2 % i veckan. Hur mycket efter 5 år?",
+     "options": ["Ca 15 000 kr", "Ca 110 000 kr", "Ca 1,7 mkr"], "answer": 2,
+     "reveal": "2 % i veckan = ca 180 % per år"},
+    {"type": "compare", "dur": 5.6, "title": "10 000 kr på 1 år",
+     "a": {"label": "”2 % i veckan”", "value": "28 000 kr", "sub": "ca +180 % – orimligt"},
+     "b": {"label": "7 % per år", "value": "10 700 kr", "sub": "räkneexempel, ej garanterat"},
+     "verdict": "Löftet är för bra för att vara sant"},
+    {"type": "steps", "dur": 5.8, "title": "Innan du investerar",
+     "items": ["Sök på bolaget i FI:s varningslista", "Skicka aldrig pengar till någon som ringer upp dig", "Säg nej om du pressas att bestämma nu"]},
+    {"type": "end", "dur": 4.4, "kicker": "Varningsflagga", "big": "180 %/år",
+     "rows": [["Löfte", "2 % i veckan"], ["10 000 kr efter 5 år", "ca 1,7 mkr"]],
+     "cta": "Lär dig känna igen bedrägerier på guldgrisen.se – länk i bio",
+     "note": "Räkneexempel: 2 % per vecka i 52 veckor/år med ränta på ränta. 7 % per år är bara ett jämförelsetal – framtida avkastning är aldrig garanterad."}
+  ]
+}
