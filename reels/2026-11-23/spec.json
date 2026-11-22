@@ -1,0 +1,53 @@
+{
+  "date": "2026-11-23",
+  "topic": "Räkna köpet i arbetstimmar – 25 000 kr netto/mån ≈ 144 kr/timme: mobil för 12 000 kr ≈ 83 timmar (ca 2 arbetsveckor), reajacka för 7 000 kr ≈ 49 timmar",
+  "category": "beslut",
+  "theme": "green",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Vad kostar\nen ny mobil?",
+      "accent": "Räkna i timmar",
+      "sub": "Inte i kronor"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.5,
+      "question": "Lön 25 000 kr netto/mån. Hur länge jobbar du för en mobil för 12 000 kr?",
+      "options": ["1 vecka", "2 veckor", "1 månad"],
+      "answer": 1,
+      "reveal": "Ca 83 timmar – drygt 2 arbetsveckor"
+    },
+    {
+      "type": "stat",
+      "dur": 5.0,
+      "kicker": "Din timlön efter skatt",
+      "number": "144",
+      "unit": "kr/timme",
+      "rows": [
+        ["Nettolön", "25 000 kr/mån"],
+        ["Arbetstid 40 h/v", "ca 173 h/mån"],
+        ["Mobil 12 000 kr", "≈ 83 timmar"]
+      ]
+    },
+    {
+      "type": "myth",
+      "dur": 5.5,
+      "myth": "30 % rea – då sparar jag ju pengar",
+      "fact": "Jacka för 7 000 kr på rea = ca 49 timmars jobb"
+    },
+    {
+      "type": "end",
+      "dur": 4.5,
+      "kicker": "Testa själv",
+      "big": "Pris ÷ timlön",
+      "rows": [
+        ["Timlön netto", "lön ÷ timmar"],
+        ["Köpet i timmar", "pris ÷ timlön"]
+      ],
+      "cta": "Gör din budget på guldgrisen.se – länk i bio",
+      "note": "Räkneexempel: 25 000 kr netto/mån, 40 h/vecka (ca 173 h/mån). Din egen timlön kan skilja sig."
+    }
+  ]
+}

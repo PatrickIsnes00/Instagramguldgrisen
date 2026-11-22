@@ -260,5 +260,19 @@
     ],
     "theme": "ink",
     "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; FI:s varningslista kontrollerad via webbsökning"
+  },
+  {
+    "date": "2026-11-23",
+    "category": "beslut",
+    "topic": "Räkna köpet i arbetstimmar – 25 000 kr netto/mån ≈ 144 kr/timme: mobil för 12 000 kr ≈ 83 timmar (ca 2 arbetsveckor), reajacka för 7 000 kr ≈ 49 timmar",
+    "scenes": [
+      "hook",
+      "quiz",
+      "stat",
+      "myth",
+      "end"
+    ],
+    "theme": "green",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet att kontrollera (webbsökning om statlig skatt gjordes men används inte)"
   }
 ]
