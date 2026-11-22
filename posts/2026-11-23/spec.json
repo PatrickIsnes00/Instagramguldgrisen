@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-23",
+  "topic": "Belåningsgrad – lånet delat med bostadens värde avgör amorteringskravet (80 % ger 2 %/år, 67 % ger 1 %/år)",
+  "category": "ordlista",
+  "post": {
+    "layout": "compare",
+    "theme": "gold",
+    "kicker": "Ordlistan: belåningsgrad",
+    "title": "Samma bostad för 3 mkr –\nolika krav på amortering",
+    "a": {
+      "label": "Lån 2,4 mkr = 80 %",
+      "value": "4 000 kr",
+      "sub": "i amortering/mån · 2 % per år"
+    },
+    "b": {
+      "label": "Lån 2,0 mkr ≈ 67 %",
+      "value": "≈ 1 670 kr",
+      "sub": "i amortering/mån · 1 % per år"
+    },
+    "highlight": "b",
+    "verdict": "Belåningsgrad = lånet ÷ bostadens värde.\nUnder 50 % finns inget amorteringskrav.",
+    "note": "Räkneexempel med amorteringskravet 2026: över 70 % belåning 2 % per år, 50–70 % 1 % per år. Bolånetaket är 90 %.",
+    "footer": "Fler begrepp i ordlistan på guldgrisen.se"
+  },
+  "story": {
+    "layout": "question",
+    "theme": "green",
+    "kicker": "Ordlistan",
+    "question": "Vet du din belåningsgrad?",
+    "sub": "Dela lånet med bostadens värde. 2,4 mkr ÷ 3 mkr = 80 % – och då ska du amortera 2 % om året.",
+    "cta": "Räkna på ditt bolån på guldgrisen.se – länk i bio",
+    "note": "Över 70 %: 2 %/år. 50–70 %: 1 %/år. Under 50 %: inget krav."
+  },
+  "caption": "Ett ord som styr hur mycket du måste amortera: belåningsgrad 🏠\n\nBelåningsgrad = bolånet ÷ bostadens värde.\n\nRäkneexempel med en bostad för 3 000 000 kr:\n• Lån 2 400 000 kr = 80 % belåning → 2 % amortering per år = 4 000 kr/mån\n• Lån 2 000 000 kr ≈ 67 % belåning → 1 % per år = ca 1 670 kr/mån\nSkillnad: ca 2 330 kr i månaden i amortering.\n\nBra att veta:\n1️⃣ Över 70 % belåning: amortera 2 % av lånet per år. Mellan 50 och 70 %: 1 %. Under 50 %: inget amorteringskrav.\n2️⃣ Sedan 1 april 2026 får du låna upp till 90 % av bostadens värde, så kontantinsatsen är minst 10 %.\n3️⃣ Varje amortering sänker belåningsgraden – passerar du 70 % eller 50 % kan kravet sänkas.\n4️⃣ Har bostaden stigit i värde kan en ny värdering ge lägre belåningsgrad. Fråga din bank vad som gäller.\n\nRäkneexemplet är förenklat och ingen rekommendation.\n\n📖 Fler begrepp förklaras i ordlistan på guldgrisen.se, och i kalkylatorn Hur mycket kan jag låna? kan du räkna på ditt eget läge (länk i bio).\n\n#belåningsgrad #amorteringskrav #bolån #amortering #kontantinsats #privatekonomi #ekonomitips #guldgrisen",
+  "alt_text": "Gul bild från Guldgrisen.se, ordlistan: belåningsgrad. Samma bostad för 3 miljoner kronor ger olika krav på amortering. Lån 2,4 miljoner kronor är 80 procent belåning och kräver 2 procent per år, 4 000 kronor i månaden. Lån 2,0 miljoner kronor är cirka 67 procent och kräver 1 procent per år, cirka 1 670 kronor i månaden. Belåningsgrad är lånet delat med bostadens värde; under 50 procent finns inget amorteringskrav."
+}

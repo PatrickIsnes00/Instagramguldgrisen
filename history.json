@@ -95,5 +95,15 @@
     "theme": "ink",
     "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighet) – barnbidrag 1 250 kr/mån 2026 kontrollerat via webbsökning; egna beräkningar: 250 kr/mån i 18 år, 5 % årlig avkastning",
     "metricool_items": 2
+  },
+  {
+    "date": "2026-11-23",
+    "category": "ordlista",
+    "topic": "Belåningsgrad – lånet delat med bostadens värde avgör amorteringskravet (80 % ger 2 %/år, 67 % ger 1 %/år)",
+    "post_layout": "compare",
+    "story_layout": "question",
+    "theme": "gold",
+    "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörigheten besvarades inte) – egna beräkningar: bostad 3 mkr, lån 2,4 mkr (4 000 kr/mån) mot 2,0 mkr (ca 1 667 kr/mån); amorteringskrav 70/50 % och bolånetak 90 % från 1 april 2026 kontrollerade via webbsökning (Avanza, Nordea, Swedbank, Konsumenternas)",
+    "metricool_items": 2
   }
 ]
