@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-24",
+  "topic": "Sparmatchning till barn – barnet sparar 20 kr/vecka och du lägger till lika mycket: 5 200 kr blir 10 400 kr på 5 år",
+  "category": "barn",
+  "theme": "cream",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Lär barnet\nspara",
+      "accent": "Matcha varje krona",
+      "sub": "Ett enkelt knep med veckopengen"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.0,
+      "question": "Barnet sparar 20 kr i veckan och du lägger till lika mycket. Hur mycket efter 5 år?",
+      "options": ["5 200 kr", "10 400 kr", "15 600 kr"],
+      "answer": 1,
+      "reveal": "Dubbelt så mycket som barnet sparat själv"
+    },
+    {
+      "type": "counter",
+      "dur": 6.0,
+      "label": "20 kr/vecka + lika mycket från dig",
+      "unit_label": "år",
+      "value_fmt": "kr",
+      "in_label": "Barnets sparande",
+      "gain_label": "Din matchning",
+      "points": [
+        {"x": 1, "in": 1040, "gain": 1040},
+        {"x": 2, "in": 2080, "gain": 2080},
+        {"x": 3, "in": 3120, "gain": 3120},
+        {"x": 4, "in": 4160, "gain": 4160},
+        {"x": 5, "in": 5200, "gain": 5200}
+      ]
+    },
+    {
+      "type": "steps",
+      "dur": 5.3,
+      "title": "Så gör du",
+      "items": [
+        "Bestäm en sparsumma av veckopengen",
+        "Lägg till lika mycket samma dag",
+        "Visa saldot – låt barnet se det växa"
+      ]
+    },
+    {
+      "type": "end",
+      "dur": 4.2,
+      "kicker": "Testa själv",
+      "big": "1 kr → 2 kr",
+      "rows": [
+        ["Barnet: 20 kr/vecka", "5 200 kr"],
+        ["Med matchning", "10 400 kr"]
+      ],
+      "cta": "Fler tips om barn och pengar på guldgrisen.se – länk i bio",
+      "note": "Räkneexempel: 20 kr/vecka i 5 år (52 veckor/år), utan ränta eller avkastning."
+    }
+  ]
+}

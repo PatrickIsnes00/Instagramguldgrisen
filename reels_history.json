@@ -274,5 +274,19 @@
     ],
     "theme": "green",
     "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet att kontrollera (webbsökning om statlig skatt gjordes men används inte)"
+  },
+  {
+    "date": "2026-11-24",
+    "category": "barn",
+    "topic": "Sparmatchning till barn – barnet sparar 20 kr/vecka och du lägger till lika mycket: 5 200 kr blir 10 400 kr på 5 år",
+    "scenes": [
+      "hook",
+      "quiz",
+      "counter",
+      "steps",
+      "end"
+    ],
+    "theme": "cream",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet (ingen ränta eller skatt i exemplet)"
   }
 ]
