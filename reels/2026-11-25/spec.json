@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-25",
+  "topic": "50/30/20-regeln – 30 000 kr netto: 15 000 kr behov, 9 000 kr nöjen, 6 000 kr sparande (72 000 kr/år, 360 000 kr på 5 år utan avkastning)",
+  "category": "budget",
+  "theme": "ink",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Vart tar\nlönen vägen?",
+      "accent": "Testa 50/30/20",
+      "sub": "En budget i tre fack"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.0,
+      "question": "Du får 30 000 kr netto. Hur mycket sparar du med 50/30/20?",
+      "options": ["3 000 kr", "6 000 kr", "9 000 kr"],
+      "answer": 1,
+      "reveal": "20 % av nettolönen går till sparande"
+    },
+    {
+      "type": "stat",
+      "dur": 5.0,
+      "kicker": "30 000 kr netto",
+      "number": "6000",
+      "unit": "kr/mån sparas",
+      "rows": [
+        ["50 % behov", "15 000 kr"],
+        ["30 % nöjen", "9 000 kr"],
+        ["20 % sparande", "6 000 kr"]
+      ]
+    },
+    {
+      "type": "steps",
+      "dur": 6.0,
+      "title": "Så kommer du igång",
+      "items": [
+        "Utgå från lönen efter skatt",
+        "Lista fasta kostnader – blir de över 50 %?",
+        "Flytta sparandet direkt på lönedagen"
+      ]
+    },
+    {
+      "type": "end",
+      "dur": 4.5,
+      "kicker": "Gör din budget",
+      "big": "72 000 kr/år",
+      "rows": [
+        ["Sparande 6 000 kr/mån", "72 000 kr/år"],
+        ["Efter 5 år", "360 000 kr"]
+      ],
+      "cta": "Testa budgeten på guldgrisen.se – länk i bio",
+      "note": "Räkneexempel: 30 000 kr netto/mån, utan ränta eller avkastning. 50/30/20 är en tumregel – anpassa efter din situation."
+    }
+  ]
+}

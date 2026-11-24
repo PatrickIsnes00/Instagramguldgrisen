@@ -288,5 +288,19 @@
     ],
     "theme": "cream",
     "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet (ingen ränta eller skatt i exemplet)"
+  },
+  {
+    "date": "2026-11-25",
+    "category": "budget",
+    "topic": "50/30/20-regeln – 30 000 kr netto: 15 000 kr behov, 9 000 kr nöjen, 6 000 kr sparande (72 000 kr/år, 360 000 kr på 5 år utan avkastning)",
+    "scenes": [
+      "hook",
+      "quiz",
+      "stat",
+      "steps",
+      "end"
+    ],
+    "theme": "ink",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet (ingen ränta, skatt eller avkastning i exemplet)"
   }
 ]
