@@ -302,5 +302,19 @@
     ],
     "theme": "ink",
     "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet (ingen ränta, skatt eller avkastning i exemplet)"
+  },
+  {
+    "date": "2026-11-26",
+    "category": "lan",
+    "topic": "Kreditkortsskuld och lägsta belopp – 20 000 kr på 18 %: lägsta belopp (3 %, minst 200 kr) tar ca 9 år 10 mån och kostar ca 15 600 kr i ränta; 1 000 kr/mån tar 2 år och ca 4 000 kr",
+    "scenes": [
+      "hook",
+      "myth",
+      "compare",
+      "steps",
+      "end"
+    ],
+    "theme": "green",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; ny konsumentkreditlag (2026:1011) kontrollerad via webbsökning, påverkar inte räkneexemplet"
   }
 ]

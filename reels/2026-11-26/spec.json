@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-26",
+  "topic": "Kreditkortsskuld och lägsta belopp – 20 000 kr på 18 %: betala lägsta belopp (3 %, minst 200 kr) tar ca 9 år 10 mån och kostar ca 15 600 kr i ränta; 1 000 kr/mån tar 2 år och ca 4 000 kr",
+  "category": "lan",
+  "theme": "green",
+  "scenes": [
+    {"type": "hook", "dur": 2.6, "title": "Betalar du\nlägsta belopp?", "accent": "Då tar det tid.", "sub": "20 000 kr på kreditkortet"},
+    {"type": "myth", "dur": 5.4, "myth": "Lägsta beloppet räcker – skulden försvinner ju ändå", "fact": "Det tar nästan 10 år och kostar ca 15 600 kr i ränta"},
+    {"type": "compare", "dur": 5.8, "title": "20 000 kr på 18 % ränta",
+     "a": {"label": "Lägsta belopp", "value": "ca 9 år 10 mån", "sub": "ränta ca 15 600 kr"},
+     "b": {"label": "1 000 kr/mån", "value": "2 år", "sub": "ränta ca 4 000 kr"},
+     "verdict": "Ca 11 600 kr mindre i ränta"},
+    {"type": "steps", "dur": 6.0, "title": "Så blir du skuldfri snabbare",
+     "items": ["Betala ett fast belopp, inte lägsta", "Ta den dyraste skulden först", "Pausa kortet medan du betalar av"]},
+    {"type": "end", "dur": 4.4, "kicker": "Räkna på din skuld", "big": "−11 600 kr",
+     "rows": [["Lägsta belopp", "ca 15 600 kr"], ["1 000 kr/mån", "ca 4 000 kr"]],
+     "cta": "Testa skuldkalkylatorn på guldgrisen.se – länk i bio",
+     "note": "Räkneexempel: skuld 20 000 kr, 18 % årsränta (1,5 %/mån), inga nya köp eller avgifter. Lägsta belopp = 3 % av skulden, minst 200 kr."}
+  ]
+}
