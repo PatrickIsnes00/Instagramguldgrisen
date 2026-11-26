@@ -115,5 +115,15 @@
     "theme": "green",
     "note": "guldgrisen.se kunde inte hämtas med WebFetch (behörighetsförfrågan besvarades inte) – egna beräkningar: 1 000 kr/mån i 30 år, 7 % årlig avkastning före avgift, månadsvis ränta på ränta (1 133 422 kr mot 894 910 kr)",
     "metricool_items": 1
+  },
+  {
+    "date": "2026-11-27",
+    "category": "trygghet",
+    "topic": "Falska webbutiker på Black Friday – fem koller innan du handlar (sök fram butiken själv, läs adressen, omdömen, faktura/kreditkort, för bra för att vara sant)",
+    "post_layout": "tips",
+    "story_layout": "myth",
+    "theme": "cream",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – råd från Polisen.se via TV4 och Konsumentverket (kortreklamation: kreditkort ger skydd enligt konsumentkreditlagen, betalkort enligt bankens villkor); räkneexempel 2 000 kr minus 80 % = 400 kr",
+    "metricool_items": 2
   }
 ]
