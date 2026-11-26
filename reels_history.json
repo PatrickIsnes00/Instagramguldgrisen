@@ -316,5 +316,19 @@
     ],
     "theme": "green",
     "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; ny konsumentkreditlag (2026:1011) kontrollerad via webbsökning, påverkar inte räkneexemplet"
+  },
+  {
+    "date": "2026-11-27",
+    "category": "investera",
+    "topic": "Månadssparande när börsen svänger – 1 000 kr/mån i 5 månader när fondkursen går 100 → 80 → 50 → 80 → 100 kr: 65 andelar, snittpris ca 77 kr, 5 000 kr blir 6 500 kr trots att kursen är tillbaka där den började",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "steps",
+      "end"
+    ],
+    "theme": "gold",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet (påhittade kurser, ingen skatt eller ränta)"
   }
 ]
