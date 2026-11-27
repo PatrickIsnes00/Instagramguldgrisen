@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-28",
+  "topic": "Reafällan efter Black Friday – jacka för 1 400 kr med 30 % rabatt: du sparar 0 kr om du inte behövde den, du spenderar 980 kr; tre sådana reaköp = 2 940 kr spenderat för 1 260 kr i rabatt",
+  "category": "budget",
+  "theme": "cream",
+  "scenes": [
+    {
+      "type": "hook",
+      "dur": 2.6,
+      "title": "Sparade du\npengar på\nBlack Friday?",
+      "accent": "Räkna igen.",
+      "sub": "Rabatt är inte samma sak som sparande"
+    },
+    {
+      "type": "quiz",
+      "dur": 6.4,
+      "question": "Jackan kostar 1 400 kr och har 30 % rabatt. Du behövde den inte. Hur mycket sparade du?",
+      "options": ["420 kr", "980 kr", "0 kr"],
+      "answer": 2,
+      "reveal": "Du sparade 0 kr – du spenderade 980 kr"
+    },
+    {
+      "type": "stat",
+      "dur": 5.2,
+      "kicker": "Tre reaköp à 980 kr",
+      "number": "2940",
+      "unit": "kr ut",
+      "rows": [["Rabatt totalt", "1 260 kr"], ["Spenderat", "2 940 kr"], ["Sparat om du inte behövde dem", "0 kr"]]
+    },
+    {
+      "type": "steps",
+      "dur": 6.0,
+      "title": "Tre insikter",
+      "items": [
+        "Fråga dig: hade jag köpt den till fullpris?",
+        "Vänta 48 timmar innan du betalar",
+        "Flytta det du inte köpte till sparkontot direkt"
+      ]
+    },
+    {
+      "type": "end",
+      "dur": 4.6,
+      "kicker": "Ha koll på din budget",
+      "big": "980 kr kvar",
+      "rows": [["Köpt på rea", "−980 kr"], ["Hoppat över", "+980 kr kvar"]],
+      "cta": "Gör din hushållsbudget på guldgrisen.se – länk i bio",
+      "note": "Räkneexempel med påhittade priser."
+    }
+  ]
+}

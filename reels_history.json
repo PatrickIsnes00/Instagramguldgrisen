@@ -330,5 +330,19 @@
     ],
     "theme": "gold",
     "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet (påhittade kurser, ingen skatt eller ränta)"
+  },
+  {
+    "date": "2026-11-28",
+    "category": "budget",
+    "topic": "Reafällan efter Black Friday – jacka för 1 400 kr med 30 % rabatt: du sparar 0 kr om du inte behövde den, du spenderar 980 kr; tre sådana reaköp = 2 940 kr spenderat för 1 260 kr i rabatt",
+    "scenes": [
+      "hook",
+      "quiz",
+      "stat",
+      "steps",
+      "end"
+    ],
+    "theme": "cream",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet (påhittade priser, ingen ränta, skatt eller avkastning)"
   }
 ]
