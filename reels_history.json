@@ -344,5 +344,19 @@
     ],
     "theme": "cream",
     "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet (påhittade priser, ingen ränta, skatt eller avkastning)"
+  },
+  {
+    "date": "2026-11-29",
+    "category": "sparande",
+    "topic": "72-regeln – dela 72 med avkastningen så får du ungefär hur många år det tar att dubbla pengarna: 7 % ≈ 10 år; 10 000 kr på 30 år blir ca 32 400 kr vid 4 % och ca 100 600 kr vid 8 %",
+    "scenes": [
+      "hook",
+      "quiz",
+      "compare",
+      "steps",
+      "end"
+    ],
+    "theme": "ink",
+    "note": "guldgrisen.se kunde inte hämtas (behörigheten besvarades inte) – bygger bara på egna beräkningar; inga regler i ämnet (antagen jämn avkastning, före skatt och avgifter)"
   }
 ]
